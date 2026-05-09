@@ -12,7 +12,7 @@
 [![GSAP](https://img.shields.io/badge/GSAP-3-88CE02?logo=greensock)](https://gsap.com/)
 [![i18n](https://img.shields.io/badge/i18n-4%20languages-brightgreen)](#)
 
-[🌐 Live Demo](https://taiwan-scholarship-finder.vercel.app/) · [📝 Report Bug](https://github.com/DuyTai2003/taiwan-scholarship-finder/issues)
+[🌐 Live Demo](https://duytai2003.github.io/taiwan-scholarship-finder/) · [📝 Report Bug](https://github.com/DuyTai2003/taiwan-scholarship-finder/issues)
 
 </div>
 
@@ -95,7 +95,7 @@ npm run preview      # Preview production build
 ### 🔗 Links
 
 - GitHub: [DuyTai2003/taiwan-scholarship-finder](https://github.com/DuyTai2003/taiwan-scholarship-finder)
-- Live Demo: [Deploy on Vercel](https://taiwan-scholarship-finder.vercel.app/)
+- Live Demo: [GitHub Pages](https://duytai2003.github.io/taiwan-scholarship-finder/)
 
 ---
 
