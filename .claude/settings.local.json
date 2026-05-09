@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "PowerShell(New-Item *)",
+      "Bash(node *)",
+      "Bash(npx vite *)",
+      "Bash(npm uninstall *)",
+      "Bash(npm run *)",
+      "Bash(not exist *)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}

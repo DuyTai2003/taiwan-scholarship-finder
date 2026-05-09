@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taiwan-scholarship-finder.vercel.app/sitemap.xml
