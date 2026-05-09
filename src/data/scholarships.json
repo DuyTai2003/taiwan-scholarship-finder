@@ -1,0 +1,6321 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "vi": "Đại học Quốc lập Trung ương",
+      "en": "National Central University",
+      "zh-CN": "国立中央大学",
+      "zh-TW": "國立中央大學"
+    },
+    "org": {
+      "vi": "NCU",
+      "en": "NCU",
+      "zh-CN": "中大",
+      "zh-TW": "中大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí + Trợ cấp 6,000-10,000 TWD/tháng",
+      "en": "Tuition Waiver + 6k-10k TWD Monthly Stipend",
+      "zh-CN": "免学费 + 每月6k-1万助学金",
+      "zh-TW": "免學費 + 每月6k-1萬助學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "deadlineDisplay": {
+      "vi": "15 Tháng 3, 2026",
+      "en": "March 15, 2026",
+      "zh-CN": "3月15日",
+      "zh-TW": "3月15日"
+    },
+    "desc": {
+      "vi": "Trường trọng điểm quốc gia tại Đào Viên, mạnh về Khoa học và Kỹ thuật.",
+      "en": "National research university in Taoyuan, strong in Science and Engineering."
+    },
+    "tags": {
+      "vi": [
+        "Đào Viên",
+        "Nghiên cứu"
+      ],
+      "en": [
+        "Taoyuan",
+        "Research"
+      ]
+    },
+    "link": "https://www.ncu.edu.tw/",
+    "hot": true,
+    "keywords": [
+      "ncu",
+      "trung uong",
+      "central",
+      "dao vien",
+      "taoyuan",
+      "trung lich",
+      "zhongli",
+      "中央大學"
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "vi": "Đại học Quốc lập Cao Hùng",
+      "en": "National University of Kaohsiung",
+      "zh-CN": "国立高雄大学",
+      "zh-TW": "國立高雄大學"
+    },
+    "org": {
+      "vi": "NUK",
+      "en": "NUK",
+      "zh-CN": "高大",
+      "zh-TW": "高大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến khích từ 20,000 TWD/kỳ",
+      "en": "Encouragement Scholarship from 20k TWD/semester",
+      "zh-CN": "每学期2万台币起",
+      "zh-TW": "每學期2萬台幣起"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "deadlineDisplay": {
+      "vi": "31 Tháng 3, 2026",
+      "en": "March 31, 2026",
+      "zh-CN": "3月31日",
+      "zh-TW": "3月31日"
+    },
+    "desc": {
+      "vi": "Trường đại học quốc lập trẻ trung, năng động tại phía Nam Cao Hùng.",
+      "en": "A young and dynamic national university in Southern Kaohsiung."
+    },
+    "tags": {
+      "vi": [
+        "Cao Hùng",
+        "Năng động"
+      ],
+      "en": [
+        "Kaohsiung",
+        "Dynamic"
+      ]
+    },
+    "link": "https://www.nuk.edu.tw/",
+    "hot": false,
+    "keywords": [
+      "nuk",
+      "cao hung",
+      "kaohsiung",
+      "nam tu",
+      "nanzih",
+      "高雄大學"
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "vi": "Đại học Quốc lập Thành Công",
+      "en": "National Cheng Kung University",
+      "zh-CN": "国立成功大学",
+      "zh-TW": "國立成功大學"
+    },
+    "org": {
+      "vi": "NCKU",
+      "en": "NCKU",
+      "zh-CN": "成功大学",
+      "zh-TW": "成功大學"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Trợ cấp lên tới 15,000 TWD/tháng",
+      "en": "Tuition Waiver + Up to 15k TWD Monthly Stipend",
+      "zh-CN": "免学费 + 每月最高1.5万助学金",
+      "zh-TW": "免學費 + 每月最高1.5萬助學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-10",
+    "deadlineDisplay": {
+      "vi": "10 Tháng 3, 2026",
+      "en": "March 10, 2026",
+      "zh-CN": "3月10日",
+      "zh-TW": "3月10日"
+    },
+    "desc": {
+      "vi": "Một trong những trường đại học danh giá nhất Đài Loan (xếp thứ 2 sau NTU).",
+      "en": "One of the most prestigious universities in Taiwan (ranked 2nd after NTU)."
+    },
+    "tags": {
+      "vi": [
+        "Đài Nam",
+        "Top đầu"
+      ],
+      "en": [
+        "Tainan",
+        "Top Tier"
+      ]
+    },
+    "link": "https://www.ncku.edu.tw/",
+    "hot": true,
+    "keywords": [
+      "ncku",
+      "thanh cong",
+      "cheng kung",
+      "dai nam",
+      "tainan",
+      "成功大學"
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "vi": "Đại học Quốc lập Chính trị",
+      "en": "National Chengchi University",
+      "zh-CN": "国立政治大学",
+      "zh-TW": "國立政治大學"
+    },
+    "org": {
+      "vi": "NCCU",
+      "en": "NCCU",
+      "zh-CN": "政大",
+      "zh-TW": "政大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Trợ cấp sinh hoạt phí hàng tháng",
+      "en": "Tuition Waiver + Monthly Living Allowance",
+      "zh-CN": "免学费 + 每月生活补助",
+      "zh-TW": "免學費 + 每月生活補助"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-20",
+    "deadlineDisplay": {
+      "vi": "20 Tháng 3, 2026",
+      "en": "March 20, 2026",
+      "zh-CN": "3月20日",
+      "zh-TW": "3月20日"
+    },
+    "desc": {
+      "vi": "Trường top 1 về Khoa học xã hội, Kinh doanh và Truyền thông tại Đài Bắc.",
+      "en": "Taiwan's leading university for Social Sciences, Business, and Media."
+    },
+    "tags": {
+      "vi": [
+        "Đài Bắc",
+        "Kinh tế"
+      ],
+      "en": [
+        "Taipei",
+        "Business"
+      ]
+    },
+    "link": "https://www.nccu.edu.tw/",
+    "hot": true,
+    "keywords": [
+      "nccu",
+      "chinh tri",
+      "chengchi",
+      "dai bac",
+      "taipei",
+      "van son",
+      "wenshan",
+      "政治大學"
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "vi": "Đại học Quốc lập Quốc tế Kỵ Nam",
+      "en": "National Chi Nan University",
+      "zh-CN": "国立暨南国际大学",
+      "zh-TW": "國立暨南國際大學"
+    },
+    "org": {
+      "vi": "NCNU",
+      "en": "NCNU",
+      "zh-CN": "暨大",
+      "zh-TW": "暨大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí 100%",
+      "en": "100% Tuition Waiver",
+      "zh-CN": "100%学费减免",
+      "zh-TW": "100%學費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "deadlineDisplay": {
+      "vi": "15 Tháng 4, 2026",
+      "en": "April 15, 2026",
+      "zh-CN": "4月15日",
+      "zh-TW": "4月15日"
+    },
+    "desc": {
+      "vi": "Nổi tiếng với khuôn viên xanh mướt tại Nam Đầu, gần Nhật Nguyệt Đàm.",
+      "en": "Famous for its beautiful green campus in Nantou, near Sun Moon Lake."
+    },
+    "tags": {
+      "vi": [
+        "Nam Đầu",
+        "Du lịch"
+      ],
+      "en": [
+        "Nantou",
+        "Tourism"
+      ]
+    },
+    "link": "https://www.ncnu.edu.tw/",
+    "hot": false,
+    "keywords": [
+      "ncnu",
+      "ky nam",
+      "chi nan",
+      "nam dau",
+      "nantou",
+      "pho ly",
+      "puli",
+      "暨南國際大學"
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "vi": "ĐH Quốc lập Dương Minh Giao thông",
+      "en": "National Yang Ming Chiao Tung University",
+      "zh-CN": "国立阳明交通大学",
+      "zh-TW": "國立陽明交通大學"
+    },
+    "org": {
+      "vi": "NYCU",
+      "en": "NYCU",
+      "zh-CN": "阳明交大",
+      "zh-TW": "陽明交大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Trợ cấp 15,000 TWD/tháng",
+      "en": "Tuition Waiver + 15k TWD Stipend",
+      "zh-CN": "免学费 + 每月1.5万助学金",
+      "zh-TW": "免學費 + 每月1.5萬助學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "link": "https://www.nycu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Trúc"
+      ],
+      "en": [
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "新竹"
+      ],
+      "zh-TW": [
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "nycu",
+      "duong minh giao thong",
+      "yang ming chiao tung"
+    ]
+  },
+  {
+    "id": 7,
+    "name": {
+      "vi": "Đại học Quốc lập Gia Nghĩa",
+      "en": "National Chiayi University",
+      "zh-CN": "国立嘉义大学",
+      "zh-TW": "國立嘉義大學"
+    },
+    "org": {
+      "vi": "NCYU",
+      "en": "NCYU",
+      "zh-CN": "嘉大",
+      "zh-TW": "嘉大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Trợ cấp sinh hoạt phí theo học tập",
+      "en": "Academic Living Stipend",
+      "zh-CN": "生活补助金",
+      "zh-TW": "生活補助金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "link": "https://www.ncyu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Gia Nghĩa"
+      ],
+      "en": [
+        "Chiayi"
+      ],
+      "zh-CN": [
+        "嘉义"
+      ],
+      "zh-TW": [
+        "嘉義"
+      ]
+    },
+    "keywords": [
+      "ncyu",
+      "gia nghia",
+      "chiayi"
+    ]
+  },
+  {
+    "id": 8,
+    "name": {
+      "vi": "Đại học Quốc lập Trung Chính",
+      "en": "National Chung Cheng University",
+      "zh-CN": "国立中正大学",
+      "zh-TW": "國立中正大學"
+    },
+    "org": {
+      "vi": "CCU",
+      "en": "CCU",
+      "zh-CN": "中正",
+      "zh-TW": "中正"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Ký túc xá năm đầu",
+      "en": "Tuition Waiver + Free Dorm (1st yr)",
+      "zh-CN": "免学费+首年住宿",
+      "zh-TW": "免學費+首年住宿"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-15",
+    "link": "https://www.ccu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Gia Nghĩa"
+      ],
+      "en": [
+        "Chiayi"
+      ],
+      "zh-CN": [
+        "嘉义"
+      ],
+      "zh-TW": [
+        "嘉義"
+      ]
+    },
+    "keywords": [
+      "ccu",
+      "trung chinh",
+      "chung cheng"
+    ]
+  },
+  {
+    "id": 9,
+    "name": {
+      "vi": "Đại học Quốc lập Trung Hưng",
+      "en": "National Chung Hsing University",
+      "zh-CN": "国立中兴大学",
+      "zh-TW": "國立中興大學"
+    },
+    "org": {
+      "vi": "NCHU",
+      "en": "NCHU",
+      "zh-CN": "中兴",
+      "zh-TW": "中興"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí 50-100%",
+      "en": "50-100% Tuition Waiver",
+      "zh-CN": "50-100%学费减免",
+      "zh-TW": "50-100%學費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "link": "https://www.nchu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "nchu",
+      "trung hung",
+      "chung hsing"
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "vi": "Đại học Quốc lập Đông Hoa",
+      "en": "National Dong Hwa University",
+      "zh-CN": "国立东华大学",
+      "zh-TW": "國立東華大學"
+    },
+    "org": {
+      "vi": "NDHU",
+      "en": "NDHU",
+      "zh-CN": "东华",
+      "zh-TW": "東華"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Ký túc xá",
+      "en": "Tuition + Dorm Waiver",
+      "zh-CN": "免学费+住宿",
+      "zh-TW": "免學費+住宿"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.ndhu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Hoa Liên"
+      ],
+      "en": [
+        "Hualien"
+      ],
+      "zh-CN": [
+        "花莲"
+      ],
+      "zh-TW": [
+        "花蓮"
+      ]
+    },
+    "keywords": [
+      "ndhu",
+      "dong hoa",
+      "dong hwa"
+    ]
+  },
+  {
+    "id": 11,
+    "name": {
+      "vi": "ĐH Quốc lập Nghi Lan",
+      "en": "National Ilan University",
+      "zh-CN": "国立宜兰大学",
+      "zh-TW": "國立宜蘭大學"
+    },
+    "org": {
+      "vi": "NIU",
+      "en": "NIU",
+      "zh-CN": "宜大",
+      "zh-TW": "宜大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí/tạp phí",
+      "en": "Tuition Fees Waiver",
+      "zh-CN": "学杂费减免",
+      "zh-TW": "學雜費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "link": "https://www.niu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nghi Lan"
+      ],
+      "en": [
+        "Yilan"
+      ],
+      "zh-CN": [
+        "宜兰"
+      ],
+      "zh-TW": [
+        "宜蘭"
+      ]
+    },
+    "keywords": [
+      "niu",
+      "nghi lan",
+      "ilan"
+    ]
+  },
+  {
+    "id": 12,
+    "name": {
+      "vi": "ĐH Quốc lập Bình Đông",
+      "en": "National Pingtung University",
+      "zh-CN": "国立屏东大学",
+      "zh-TW": "國立屏東大學"
+    },
+    "org": {
+      "vi": "NPTU",
+      "en": "NPTU",
+      "zh-CN": "屏大",
+      "zh-TW": "屏大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến khích",
+      "en": "Incentive Scholarship",
+      "zh-CN": "奖励金",
+      "zh-TW": "獎勵金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.nptu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bình Đông"
+      ],
+      "en": [
+        "Pingtung"
+      ],
+      "zh-CN": [
+        "屏东"
+      ],
+      "zh-TW": [
+        "屏東"
+      ]
+    },
+    "keywords": [
+      "nptu",
+      "binh dong",
+      "pingtung"
+    ]
+  },
+  {
+    "id": 13,
+    "name": {
+      "vi": "ĐH Quốc lập Kim Môn",
+      "en": "National Quemoy University",
+      "zh-CN": "国立金门大学",
+      "zh-TW": "國立金門大學"
+    },
+    "org": {
+      "vi": "NQU",
+      "en": "NQU",
+      "zh-CN": "金大",
+      "zh-TW": "金大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Trợ cấp đặc biệt quốc tế",
+      "en": "Special International Subsidy",
+      "zh-CN": "国际生补助",
+      "zh-TW": "國際生補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.nqu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Kim Môn"
+      ],
+      "en": [
+        "Kinmen"
+      ],
+      "zh-CN": [
+        "金门"
+      ],
+      "zh-TW": [
+        "金門"
+      ]
+    },
+    "keywords": [
+      "nqu",
+      "kim mon",
+      "quemoy"
+    ]
+  },
+  {
+    "id": 14,
+    "name": {
+      "vi": "ĐH Quốc lập Trung Sơn",
+      "en": "National Sun Yat-sen University",
+      "zh-CN": "国立中山大学",
+      "zh-TW": "國立中山大學"
+    },
+    "org": {
+      "vi": "NSYSU",
+      "en": "NSYSU",
+      "zh-CN": "中山",
+      "zh-TW": "中山"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + 15,000 TWD/tháng",
+      "en": "Tuition Waiver + 15k TWD",
+      "zh-CN": "免学费+生活费",
+      "zh-TW": "免學費+生活費"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "link": "https://www.nsysu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cao Hùng"
+      ],
+      "en": [
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "高雄"
+      ],
+      "zh-TW": [
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "nsysu",
+      "trung son",
+      "sun yat-sen"
+    ]
+  },
+  {
+    "id": 15,
+    "name": {
+      "vi": "ĐH Quốc lập Đài Bắc",
+      "en": "National Taipei University",
+      "zh-CN": "国立台北大学",
+      "zh-TW": "國立臺北大學"
+    },
+    "org": {
+      "vi": "NTPU",
+      "en": "NTPU",
+      "zh-CN": "北大",
+      "zh-TW": "北大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn giảm học phí",
+      "en": "Tuition Reduction",
+      "zh-CN": "学费减免",
+      "zh-TW": "學費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-20",
+    "link": "https://www.ntpu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Bắc"
+      ],
+      "en": [
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新北"
+      ],
+      "zh-TW": [
+        "新北"
+      ]
+    },
+    "keywords": [
+      "ntpu",
+      "dai bac",
+      "taipei"
+    ]
+  },
+  {
+    "id": 16,
+    "name": {
+      "vi": "ĐH Quốc lập Đài Đông",
+      "en": "National Taitung University",
+      "zh-CN": "国立台东大学",
+      "zh-TW": "國立臺東大學"
+    },
+    "org": {
+      "vi": "NTTU",
+      "en": "NTTU",
+      "zh-CN": "台东大",
+      "zh-TW": "臺東大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp sinh hoạt phí hàng kỳ",
+      "en": "Semester-based living stipend",
+      "zh-CN": "每学期生活补助",
+      "zh-TW": "每學期生活補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "link": "https://www.nttu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Đông"
+      ],
+      "en": [
+        "Taitung"
+      ],
+      "zh-CN": [
+        "台东"
+      ],
+      "zh-TW": [
+        "臺東"
+      ]
+    },
+    "keywords": [
+      "nttu",
+      "dai dong",
+      "taitung"
+    ]
+  },
+  {
+    "id": 17,
+    "name": {
+      "vi": "ĐH Quốc lập Đài Loan",
+      "en": "National Taiwan University",
+      "zh-CN": "国立台湾大学",
+      "zh-TW": "國立臺灣大學"
+    },
+    "org": {
+      "vi": "NTU",
+      "en": "NTU",
+      "zh-CN": "台大",
+      "zh-TW": "臺大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn phần NTU Excellence",
+      "en": "NTU Excellence Full Scholarship",
+      "zh-CN": "台大优秀全额奖学金",
+      "zh-TW": "臺大優秀全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2025-12-15",
+    "link": "https://www.ntu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc",
+        "Số 1"
+      ],
+      "en": [
+        "Taipei",
+        "No.1"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntu",
+      "dai hoc dai loan",
+      "taiwan university",
+      "臺大"
+    ]
+  },
+  {
+    "id": 18,
+    "name": {
+      "vi": "ĐH Hải dương Quốc lập Đài Loan",
+      "en": "National Taiwan Ocean University",
+      "zh-CN": "国立台湾海洋大学",
+      "zh-TW": "國立臺灣海洋大學"
+    },
+    "org": {
+      "vi": "NTOU",
+      "en": "NTOU",
+      "zh-CN": "海大",
+      "zh-TW": "海大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Trợ cấp nghiên cứu",
+      "en": "Tuition waiver + Research stipend",
+      "zh-CN": "免学费+研究补助",
+      "zh-TW": "免學費+研究補助"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.ntou.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cơ Long"
+      ],
+      "en": [
+        "Keelung"
+      ],
+      "zh-CN": [
+        "基隆"
+      ],
+      "zh-TW": [
+        "基隆"
+      ]
+    },
+    "keywords": [
+      "ntou",
+      "hai duong",
+      "ocean"
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "vi": "ĐH Quốc lập Thanh Hoa",
+      "en": "National Tsing Hua University",
+      "zh-CN": "国立清华大学",
+      "zh-TW": "國立清華大學"
+    },
+    "org": {
+      "vi": "NTHU",
+      "en": "NTHU",
+      "zh-CN": "清大",
+      "zh-TW": "清大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn phần (Học phí + 12k TWD/tháng)",
+      "en": "Full (Tuition + 12k TWD/month)",
+      "zh-CN": "全额奖学金",
+      "zh-TW": "全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-01-15",
+    "link": "https://www.nthu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Trúc"
+      ],
+      "en": [
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "新竹"
+      ],
+      "zh-TW": [
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "nthu",
+      "thanh hoa",
+      "tsing hua"
+    ]
+  },
+  {
+    "id": 20,
+    "name": {
+      "vi": "ĐH Quốc lập Liên Hợp",
+      "en": "National United University",
+      "zh-CN": "国立联合大学",
+      "zh-TW": "國立聯合大學"
+    },
+    "org": {
+      "vi": "NUU",
+      "en": "NUU",
+      "zh-CN": "联大",
+      "zh-TW": "聯大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí cho năm đầu",
+      "en": "First-year tuition reduction",
+      "zh-CN": "首年学费减免",
+      "zh-TW": "首年學費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-01",
+    "link": "https://www.nuu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Miêu Lật"
+      ],
+      "en": [
+        "Miaoli"
+      ],
+      "zh-CN": [
+        "苗栗"
+      ],
+      "zh-TW": [
+        "苗栗"
+      ]
+    },
+    "keywords": [
+      "nuu",
+      "lien hop",
+      "united"
+    ]
+  },
+  {
+    "id": 21,
+    "name": {
+      "vi": "ĐH Quốc lập Đài Nam",
+      "en": "National University of Tainan",
+      "zh-CN": "国立台南大学",
+      "zh-TW": "國立臺南大學"
+    },
+    "org": {
+      "vi": "NUTN",
+      "en": "NUTN",
+      "zh-CN": "南大",
+      "zh-TW": "南大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp học phí hàng kỳ",
+      "en": "Tuition assistance per semester",
+      "zh-CN": "每学期学费补助",
+      "zh-TW": "每學期學費補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "link": "https://www.nutn.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Nam"
+      ],
+      "en": [
+        "Tainan"
+      ],
+      "zh-CN": [
+        "台南"
+      ],
+      "zh-TW": [
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "nutn",
+      "dai nam",
+      "tainan"
+    ]
+  },
+  {
+    "id": 22,
+    "name": {
+      "vi": "Đại học Đài Bắc",
+      "en": "University of Taipei",
+      "zh-CN": "台北市立大学",
+      "zh-TW": "臺北市立大學"
+    },
+    "org": {
+      "vi": "UT",
+      "en": "UT",
+      "zh-CN": "北市大",
+      "zh-TW": "北市大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí cho sinh viên ưu tú",
+      "en": "Excellence Tuition Waiver",
+      "zh-CN": "优秀生免学费",
+      "zh-TW": "優秀生免學費"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-20",
+    "link": "https://www.utaipei.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ut",
+      "dai hoc dai bac",
+      "university of taipei"
+    ]
+  },
+  {
+    "id": 23,
+    "name": {
+      "vi": "ĐH Sư phạm Quốc lập Chương Hóa",
+      "en": "National Changhua University of Education",
+      "zh-CN": "国立彰化师范大学",
+      "zh-TW": "國立彰化師範大學"
+    },
+    "org": {
+      "vi": "NCUE",
+      "en": "NCUE",
+      "zh-CN": "彰师大",
+      "zh-TW": "彰師大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Miễn học phí + Trợ cấp hàng tháng",
+      "en": "Tuition Waiver + Monthly Stipend",
+      "zh-CN": "免学费+月补助",
+      "zh-TW": "免學費+月補助"
+    },
+    "coverage": "full",
+    "deadline": "2026-04-30",
+    "link": "https://www.ncue.edu.tw/",
+    "tags": {
+      "vi": [
+        "Chương Hóa"
+      ],
+      "en": [
+        "Changhua"
+      ],
+      "zh-CN": [
+        "彰化"
+      ],
+      "zh-TW": [
+        "彰化"
+      ]
+    },
+    "keywords": [
+      "ncue",
+      "su pham chuong hoa",
+      "changhua education"
+    ]
+  },
+  {
+    "id": 24,
+    "name": {
+      "vi": "ĐH Sư phạm Quốc lập Cao Hùng",
+      "en": "National Kaohsiung Normal University",
+      "zh-CN": "国立高雄师范大学",
+      "zh-TW": "國立高雄師範大學"
+    },
+    "org": {
+      "vi": "NKNU",
+      "en": "NKNU",
+      "zh-CN": "高师大",
+      "zh-TW": "高師大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Trợ cấp sinh hoạt phí dành cho SV Quốc tế",
+      "en": "International Student Living Stipend",
+      "zh-CN": "国际生生活补助",
+      "zh-TW": "國際生生活補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "link": "https://www.nknu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cao Hùng"
+      ],
+      "en": [
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "高雄"
+      ],
+      "zh-TW": [
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "nknu",
+      "su pham cao hung",
+      "kaohsiung normal"
+    ]
+  },
+  {
+    "id": 25,
+    "name": {
+      "vi": "ĐH Giáo dục Quốc lập Đài Trung",
+      "en": "National Taichung University of Education",
+      "zh-CN": "国立台中教育大学",
+      "zh-TW": "國立臺中教育大學"
+    },
+    "org": {
+      "vi": "NTCU",
+      "en": "NTCU",
+      "zh-CN": "中教大",
+      "zh-TW": "中教大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp học phí và sinh hoạt phí",
+      "en": "Tuition and living stipend",
+      "zh-CN": "学杂费及生活補助",
+      "zh-TW": "學雜費及生活補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-31",
+    "link": "https://www.ntcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ntcu",
+      "giao duc dai trung",
+      "taichung education"
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "vi": "ĐH Giáo dục Quốc lập Đài Bắc",
+      "en": "National Taipei University of Education",
+      "zh-CN": "国立台北教育大学",
+      "zh-TW": "國立臺北教育大學"
+    },
+    "org": {
+      "vi": "NTUE",
+      "en": "NTUE",
+      "zh-CN": "北教大",
+      "zh-TW": "北教大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí 100% năm đầu",
+      "en": "100% Tuition waiver for 1st year",
+      "zh-CN": "首年学杂费全免",
+      "zh-TW": "首年學雜費全免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "link": "https://www.ntue.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntue",
+      "giao duc dai bac",
+      "taipei education"
+    ]
+  },
+  {
+    "id": 27,
+    "name": {
+      "vi": "ĐH Sư phạm Quốc lập Đài Loan",
+      "en": "National Taiwan Normal University",
+      "zh-CN": "国立台湾师范大学",
+      "zh-TW": "國立臺灣師範大學"
+    },
+    "org": {
+      "vi": "NTNU",
+      "en": "NTNU",
+      "zh-CN": "台师大",
+      "zh-TW": "臺師大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn phần (Học phí + 6k-12k TWD/tháng)",
+      "en": "Full (Tuition + 6k-12k TWD/mo)",
+      "zh-CN": "全额奖学金",
+      "zh-TW": "全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-01-31",
+    "link": "https://www.ntnu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntnu",
+      "su pham dai loan",
+      "normal university"
+    ]
+  },
+  {
+    "id": 28,
+    "name": {
+      "vi": "ĐH Quốc lập Thể dục",
+      "en": "National Taiwan Sport University",
+      "zh-CN": "国立体育大学",
+      "zh-TW": "國立體育大學"
+    },
+    "org": {
+      "vi": "NTSU",
+      "en": "NTSU",
+      "zh-CN": "国体大",
+      "zh-TW": "國體大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tài năng thể thao",
+      "en": "Sports Talent Scholarship",
+      "zh-CN": "体育人才奖学金",
+      "zh-TW": "體育人才獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-15",
+    "link": "https://www.ntsu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đào Viên"
+      ],
+      "en": [
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "桃园"
+      ],
+      "zh-TW": [
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "ntsu",
+      "the duc",
+      "sport university"
+    ]
+  },
+  {
+    "id": 29,
+    "name": {
+      "vi": "ĐH Quốc lập Nghệ thuật Đài Loan",
+      "en": "National Taiwan University of Arts",
+      "zh-CN": "国立台湾艺术大学",
+      "zh-TW": "國立臺灣藝術大學"
+    },
+    "org": {
+      "vi": "NTUA",
+      "en": "NTUA",
+      "zh-CN": "台艺大",
+      "zh-TW": "臺藝大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng dành cho SV Quốc tế ưu tú",
+      "en": "International Excellence Scholarship",
+      "zh-CN": "国际优异生奖学金",
+      "zh-TW": "國際優異生獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.ntua.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Bắc"
+      ],
+      "en": [
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新北"
+      ],
+      "zh-TW": [
+        "新北"
+      ]
+    },
+    "keywords": [
+      "ntua",
+      "nghe thuat dai loan",
+      "arts university"
+    ]
+  },
+  {
+    "id": 30,
+    "name": {
+      "vi": "ĐH Quốc lập Thể dục Thể thao Đài Loan",
+      "en": "National Taiwan University of Sport",
+      "zh-CN": "国立台湾体育运动大学",
+      "zh-TW": "國立臺灣體育運動大學"
+    },
+    "org": {
+      "vi": "NTUS",
+      "en": "NTUS",
+      "zh-CN": "台体大",
+      "zh-TW": "臺體大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp sinh hoạt phí hàng năm",
+      "en": "Annual living stipend",
+      "zh-CN": "年度生活补助",
+      "zh-TW": "年度生活補助"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-01",
+    "link": "https://www.ntus.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ntus",
+      "ntupes",
+      "the duc the thao",
+      "physical education",
+      "sport university"
+    ]
+  },
+  {
+    "id": 31,
+    "name": {
+      "vi": "ĐH Quốc lập Nghệ thuật Đài Nam",
+      "en": "Tainan National University of the Arts",
+      "zh-CN": "国立台南艺术大学",
+      "zh-TW": "國立臺南藝術大學"
+    },
+    "org": {
+      "vi": "TNNUA",
+      "en": "TNNUA",
+      "zh-CN": "南艺大",
+      "zh-TW": "南藝大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp học phí dành cho khối Nghệ thuật",
+      "en": "Arts Tuition Assistance Scholarship",
+      "zh-CN": "艺术才艺奖学金",
+      "zh-TW": "藝術才藝獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "link": "https://www.tnnua.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Nam"
+      ],
+      "en": [
+        "Tainan"
+      ],
+      "zh-CN": [
+        "台南"
+      ],
+      "zh-TW": [
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "tnnua",
+      "nghe thuat dai nam",
+      "arts tainan"
+    ]
+  },
+  {
+    "id": 32,
+    "name": {
+      "vi": "ĐH Quốc lập Nghệ thuật Đài Bắc",
+      "en": "Taipei National University of the Arts",
+      "zh-CN": "国立台北艺术大学",
+      "zh-TW": "國立臺北藝術大學"
+    },
+    "org": {
+      "vi": "TNUA",
+      "en": "TNUA",
+      "zh-CN": "北艺大",
+      "zh-TW": "北藝大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú (Miễn học phí + Trợ cấp hàng tháng)",
+      "en": "Excellence Scholarship (Tuition + Stipend)",
+      "zh-CN": "优异生全额奖学金",
+      "zh-TW": "優秀生全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.tnua.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "tnua",
+      "nghe thuat dai bac",
+      "arts taipei"
+    ]
+  },
+  {
+    "id": 33,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Cần Ích",
+      "en": "National Chin-Yi University of Technology",
+      "zh-CN": "国立勤益科技大学",
+      "zh-TW": "國立勤益科技大學"
+    },
+    "org": {
+      "vi": "NCUT",
+      "en": "NCUT",
+      "zh-CN": "勤益科大",
+      "zh-TW": "勤益科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng giảm 50%-100% học phí",
+      "en": "50-100% Tuition reduction",
+      "zh-CN": "学杂费减免",
+      "zh-TW": "學雜費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-10",
+    "link": "https://www.ncut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ncut",
+      "can ich",
+      "chin yi"
+    ]
+  },
+  {
+    "id": 34,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Hổ Vĩ",
+      "en": "National Formosa University",
+      "zh-CN": "国立虎尾科技大学",
+      "zh-TW": "國立虎尾科技大學"
+    },
+    "org": {
+      "vi": "NFU",
+      "en": "NFU",
+      "zh-CN": "虎尾科大",
+      "zh-TW": "虎尾科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng quốc tế (Trợ cấp 10k-20k TWD/kỳ)",
+      "en": "International Student Stipend (10k-20k TWD)",
+      "zh-CN": "国际生助学金",
+      "zh-TW": "國際生助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.nfu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vân Lâm"
+      ],
+      "en": [
+        "Yunlin"
+      ],
+      "zh-CN": [
+        "云林"
+      ],
+      "zh-TW": [
+        "雲林"
+      ]
+    },
+    "keywords": [
+      "nfu",
+      "ho vi",
+      "formosa university"
+    ]
+  },
+  {
+    "id": 35,
+    "name": {
+      "vi": "ĐH Dịch vụ và Lữ hành Quốc lập Cao Hùng",
+      "en": "National Kaohsiung University of Hospitality and Tourism",
+      "zh-CN": "国立高雄餐旅大学",
+      "zh-TW": "國立高雄餐旅大學"
+    },
+    "org": {
+      "vi": "NKUHT",
+      "en": "NKUHT",
+      "zh-CN": "高餐大",
+      "zh-TW": "高餐大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng chuyên ngành Du lịch (Trợ cấp sinh hoạt phí)",
+      "en": "Hospitality Specialization Scholarship",
+      "zh-CN": "餐旅专业奖学金",
+      "zh-TW": "餐旅專業獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.nkuht.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cao Hùng"
+      ],
+      "en": [
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "高雄"
+      ],
+      "zh-TW": [
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "nkuht",
+      "du lich cao hung",
+      "hospitality"
+    ]
+  },
+  {
+    "id": 36,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Bành Hồ",
+      "en": "National Penghu University of Science and Technology",
+      "zh-CN": "国立澎湖科技大学",
+      "zh-TW": "國立澎湖科技大學"
+    },
+    "org": {
+      "vi": "NPU",
+      "en": "NPU",
+      "zh-CN": "澎科大",
+      "zh-TW": "澎科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng miễn học phí năm đầu cho SV quốc tế",
+      "en": "International 1st Year Tuition Waiver",
+      "zh-CN": "国际生首年免学费",
+      "zh-TW": "國際生首年免學費"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.npu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bành Hồ"
+      ],
+      "en": [
+        "Penghu"
+      ],
+      "zh-CN": [
+        "澎湖"
+      ],
+      "zh-TW": [
+        "澎湖"
+      ]
+    },
+    "keywords": [
+      "npu",
+      "banh ho",
+      "penghu"
+    ]
+  },
+  {
+    "id": 37,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Bình Đông",
+      "en": "National Pingtung University of Science and Technology",
+      "zh-CN": "国立屏东科技大学",
+      "zh-TW": "國立屏東科技大學"
+    },
+    "org": {
+      "vi": "NPUST",
+      "en": "NPUST",
+      "zh-CN": "屏科大",
+      "zh-TW": "屏科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng NPUST (Miễn học phí + Ký túc xá)",
+      "en": "NPUST Excellence (Tuition + Dorm)",
+      "zh-CN": "屏科大优异奖学金",
+      "zh-TW": "屏科大優異獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.npust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bình Đông"
+      ],
+      "en": [
+        "Pingtung"
+      ],
+      "zh-CN": [
+        "屏东"
+      ],
+      "zh-TW": [
+        "屏東"
+      ]
+    },
+    "keywords": [
+      "npust",
+      "binh dong",
+      "pingtung"
+    ]
+  },
+  {
+    "id": 38,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Đài Trung",
+      "en": "National Taichung University of Science and Technology",
+      "zh-CN": "国立台中科技大学",
+      "zh-TW": "國立臺中科技大學"
+    },
+    "org": {
+      "vi": "NTCUST",
+      "en": "NTCUST",
+      "zh-CN": "台中科大",
+      "zh-TW": "臺中科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng trợ cấp sinh hoạt phí hàng kỳ",
+      "en": "Semester-based Stipend",
+      "zh-CN": "每学期助学金",
+      "zh-TW": "每學期助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-15",
+    "link": "https://www.nutc.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ntcust",
+      "nutc",
+      "khkt dai trung",
+      "taichung science"
+    ]
+  },
+  {
+    "id": 39,
+    "name": {
+      "vi": "ĐH Khoa học Sức khỏe và Điều dưỡng Quốc lập Đài Bắc",
+      "en": "National Taipei University of Nursing and Health Science",
+      "zh-CN": "国立台北护理健康大学",
+      "zh-TW": "國立臺北護理健康大學"
+    },
+    "org": {
+      "vi": "NTUNHS",
+      "en": "NTUNHS",
+      "zh-CN": "北护大",
+      "zh-TW": "北護大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng điều dưỡng (Miễn học phí + Trợ cấp hàng tháng)",
+      "en": "Nursing Scholarship (Tuition + Stipend)",
+      "zh-CN": "护理优异奖学金",
+      "zh-TW": "護理優異獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.ntunhs.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntunhs",
+      "dieu duong dai bac",
+      "nursing taipei"
+    ]
+  },
+  {
+    "id": 40,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Đài Bắc",
+      "en": "National Taipei University of Technology",
+      "zh-CN": "国立台北科技大学",
+      "zh-TW": "國立臺北科技大學"
+    },
+    "org": {
+      "vi": "NTUT",
+      "en": "NTUT",
+      "zh-CN": "北科大",
+      "zh-TW": "北科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng quốc tế (Miễn 100% học phí & tạp phí)",
+      "en": "International Student Scholarship (Full Tuition)",
+      "zh-CN": "北科大国际生奖学金",
+      "zh-TW": "北科大國際生獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-04-30",
+    "link": "https://www.ntut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntut",
+      "khoa hoc ky thuat dai bac",
+      "taipei tech"
+    ]
+  },
+  {
+    "id": 41,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Đài Loan",
+      "en": "National Taiwan University of Science and Technology",
+      "zh-CN": "国立台湾科技大学",
+      "zh-TW": "國立臺灣科技大學"
+    },
+    "org": {
+      "vi": "NTUST",
+      "en": "NTUST",
+      "zh-CN": "台科大",
+      "zh-TW": "臺科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng toàn phần (Học phí + Trợ cấp 12k TWD/tháng)",
+      "en": "Full (Tuition + 12k TWD Stipend)",
+      "zh-CN": "台科大全额奖学金",
+      "zh-TW": "臺科大全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "link": "https://www.ntust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntust",
+      "taiwan tech",
+      "khkt dai loan"
+    ]
+  },
+  {
+    "id": 42,
+    "name": {
+      "vi": "ĐH KH-KT Quốc lập Vân Lâm",
+      "en": "National Yunlin University of Science and Technology",
+      "zh-CN": "国立云林科技大学",
+      "zh-TW": "國立雲林科技大學"
+    },
+    "org": {
+      "vi": "YunTech",
+      "en": "YunTech",
+      "zh-CN": "云科大",
+      "zh-TW": "雲科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "tech",
+    "value": {
+      "vi": "Học bổng YunTech (Miễn học phí + Trợ cấp sinh hoạt phí)",
+      "en": "YunTech Scholarship (Tuition + Stipend)",
+      "zh-CN": "云科大奖学金",
+      "zh-TW": "雲科大獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-04-10",
+    "link": "https://www.yuntech.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vân Lâm"
+      ],
+      "en": [
+        "Yunlin"
+      ],
+      "zh-CN": [
+        "云林"
+      ],
+      "zh-TW": [
+        "雲林"
+      ]
+    },
+    "keywords": [
+      "yuntech",
+      "nyust",
+      "van lam",
+      "yunlin"
+    ]
+  },
+  {
+    "id": 43,
+    "name": {
+      "vi": "Học viện Điều dưỡng Quốc lập Đài Nam",
+      "en": "National Tainan Institute of Nursing",
+      "zh-CN": "国立台南护理专科学校",
+      "zh-TW": "國立臺南護理專科學校"
+    },
+    "org": {
+      "vi": "NTIN",
+      "en": "NTIN",
+      "zh-CN": "南护",
+      "zh-TW": "南護"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng trợ cấp học tập dành cho SV Điều dưỡng",
+      "en": "Nursing Education Grant",
+      "zh-CN": "护理助学金",
+      "zh-TW": "護理助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.ntin.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Nam"
+      ],
+      "en": [
+        "Tainan"
+      ],
+      "zh-CN": [
+        "台南"
+      ],
+      "zh-TW": [
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "ntin",
+      "dieu duong dai nam",
+      "tainan nursing"
+    ]
+  },
+  {
+    "id": 44,
+    "name": {
+      "vi": "ĐH Thương nghiệp Quốc lập Đài Bắc",
+      "en": "National Taipei University of Business",
+      "zh-CN": "国立台北商业大学",
+      "zh-TW": "國立臺北商業大學"
+    },
+    "org": {
+      "vi": "NTUB",
+      "en": "NTUB",
+      "zh-CN": "北商大",
+      "zh-TW": "北商大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú khối ngành Kinh doanh",
+      "en": "Business Excellence Scholarship",
+      "zh-CN": "商业优异奖学金",
+      "zh-TW": "商業優秀獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.ntub.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntub",
+      "thuong nghiep dai bac",
+      "business taipei"
+    ]
+  },
+  {
+    "id": 45,
+    "name": {
+      "vi": "Cao đẳng Quốc lập Đài Đông",
+      "en": "National Taitung Junior College",
+      "zh-CN": "国立台东专科学校",
+      "zh-TW": "國立臺東專科學校"
+    },
+    "org": {
+      "vi": "NTC",
+      "en": "NTC",
+      "zh-CN": "台东专",
+      "zh-TW": "臺東專"
+    },
+    "level": [
+      "associate"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học dành cho SV quốc tế",
+      "en": "International Student Encouragement Grant",
+      "zh-CN": "国际生助学金",
+      "zh-TW": "國際生助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-30",
+    "link": "https://www.ntc.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Đông"
+      ],
+      "en": [
+        "Taitung"
+      ],
+      "zh-CN": [
+        "台东"
+      ],
+      "zh-TW": [
+        "臺東"
+      ]
+    },
+    "keywords": [
+      "ntc",
+      "cao dang dai dong",
+      "taitung junior"
+    ]
+  },
+  {
+    "id": 46,
+    "name": {
+      "vi": "Học viện Hí khúc Quốc lập Đài Loan",
+      "en": "National Taiwan College of Performing Arts",
+      "zh-CN": "国立台湾戏曲学院",
+      "zh-TW": "國立臺灣戲曲學院"
+    },
+    "org": {
+      "vi": "NTCPA",
+      "en": "NTCPA",
+      "zh-CN": "台戏",
+      "zh-TW": "臺戲"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tài năng nghệ thuật biểu diễn",
+      "en": "Performing Arts Talent Scholarship",
+      "zh-CN": "艺术才艺奖学金",
+      "zh-TW": "藝術才藝獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-15",
+    "link": "https://www.tcpa.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ntcpa",
+      "hi khuc",
+      "nghe thuat bieu dien"
+    ]
+  },
+  {
+    "id": 47,
+    "name": {
+      "vi": "Đại học Chân Lý",
+      "en": "Aletheia University",
+      "zh-CN": "真理大学",
+      "zh-TW": "真理大學"
+    },
+    "org": {
+      "vi": "AU",
+      "en": "AU",
+      "zh-CN": "真理",
+      "zh-TW": "真理"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học dành cho SV quốc tế",
+      "en": "International Student Encouragement Scholarship",
+      "zh-CN": "国际生助学金",
+      "zh-TW": "國際生助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.au.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Bắc"
+      ],
+      "en": [
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新北"
+      ],
+      "zh-TW": [
+        "新北"
+      ]
+    },
+    "keywords": [
+      "au",
+      "chan ly",
+      "aletheia"
+    ]
+  },
+  {
+    "id": 48,
+    "name": {
+      "vi": "Đại học Á Châu",
+      "en": "Asia University",
+      "zh-CN": "亚洲大学",
+      "zh-TW": "亞洲大學"
+    },
+    "org": {
+      "vi": "ASIA",
+      "en": "ASIA",
+      "zh-CN": "亚大",
+      "zh-TW": "亞大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn phần (Học phí + Sinh hoạt phí hàng tháng)",
+      "en": "Full Scholarship (Tuition + Monthly Stipend)",
+      "zh-CN": "全额奖学金",
+      "zh-TW": "全額獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.asia.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "asia university",
+      "a chau",
+      "vong phong"
+    ]
+  },
+  {
+    "id": 49,
+    "name": {
+      "vi": "Đại học Trường Canh",
+      "en": "Chang Gung University",
+      "zh-CN": "长庚大学",
+      "zh-TW": "長庚大學"
+    },
+    "org": {
+      "vi": "CGU",
+      "en": "CGU",
+      "zh-CN": "长庚",
+      "zh-TW": "長庚"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nghiên cứu xuất sắc",
+      "en": "Research Excellence Scholarship",
+      "zh-CN": "研究优秀奖学金",
+      "zh-TW": "研究優秀獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.cgu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đào Viên"
+      ],
+      "en": [
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "桃园"
+      ],
+      "zh-TW": [
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "cgu",
+      "truong canh",
+      "chang gung"
+    ]
+  },
+  {
+    "id": 50,
+    "name": {
+      "vi": "Đại học Trường Vinh",
+      "en": "Chang Jung Christian University",
+      "zh-CN": "长荣大学",
+      "zh-TW": "長榮大學"
+    },
+    "org": {
+      "vi": "CJCU",
+      "en": "CJCU",
+      "zh-CN": "长荣",
+      "zh-TW": "長榮"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng giảm học phí cho SV quốc tế",
+      "en": "International Student Tuition Reduction",
+      "zh-CN": "国际生学费减免",
+      "zh-TW": "國際生學費減免"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.cjcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Nam"
+      ],
+      "en": [
+        "Tainan"
+      ],
+      "zh-CN": [
+        "台南"
+      ],
+      "zh-TW": [
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "cjcu",
+      "truong vinh",
+      "chang jung"
+    ]
+  },
+  {
+    "id": 51,
+    "name": {
+      "vi": "Đại học Văn hóa Trung Quốc",
+      "en": "Chinese Culture University",
+      "zh-CN": "中国文化大学",
+      "zh-TW": "中國文化大學"
+    },
+    "org": {
+      "vi": "PCCU",
+      "en": "PCCU",
+      "zh-CN": "文化大学",
+      "zh-TW": "文化大學"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học văn hóa",
+      "en": "Culture Encouragement Scholarship",
+      "zh-CN": "文化助学金",
+      "zh-TW": "文化助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-01",
+    "link": "https://www.pccu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc"
+      ],
+      "en": [
+        "Taipei"
+      ],
+      "zh-CN": [
+        "台北"
+      ],
+      "zh-TW": [
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "pccu",
+      "van hoa trung quoc",
+      "chinese culture"
+    ]
+  },
+  {
+    "id": 52,
+    "name": {
+      "vi": "Đại học Y dược Trung Quốc",
+      "en": "China Medical University",
+      "zh-CN": "中国医药大学",
+      "zh-TW": "中國醫藥大學"
+    },
+    "org": {
+      "vi": "CMU",
+      "en": "CMU",
+      "zh-CN": "中医大",
+      "zh-TW": "中國醫"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng y khoa (Trợ cấp sinh hoạt phí cao)",
+      "en": "Medical Program Scholarship",
+      "zh-CN": "医药优秀奖学金",
+      "zh-TW": "醫藥優秀獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-20",
+    "link": "https://www.cmu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "cmu",
+      "y duoc trung quoc",
+      "china medical"
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "vi": "Đại học Trung Hoa",
+      "en": "Chung Hua University",
+      "zh-CN": "中华大学",
+      "zh-TW": "中華大學"
+    },
+    "org": {
+      "vi": "CHU",
+      "en": "CHU",
+      "zh-CN": "中华",
+      "zh-TW": "中華"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng hữu nghị quốc tế",
+      "en": "International Friendship Scholarship",
+      "zh-CN": "国际友谊奖学金",
+      "zh-TW": "國際友誼獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.chu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Trúc"
+      ],
+      "en": [
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "新竹"
+      ],
+      "zh-TW": [
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "chu",
+      "trung hoa",
+      "chung hua"
+    ]
+  },
+  {
+    "id": 54,
+    "name": {
+      "vi": "Đại học Y khoa Trung Sơn",
+      "en": "Chung Shan Medical University",
+      "zh-CN": "中山医学大学",
+      "zh-TW": "中山醫學大學"
+    },
+    "org": {
+      "vi": "CSMU",
+      "en": "CSMU",
+      "zh-CN": "中山医",
+      "zh-TW": "中山醫"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng thực tập lâm sàng",
+      "en": "Clinical Internship Scholarship",
+      "zh-CN": "临床实习奖学金",
+      "zh-TW": "臨床實習獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-03-15",
+    "link": "https://www.csmu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "csmu",
+      "y khoa trung son",
+      "chung shan medical"
+    ]
+  },
+  {
+    "id": 55,
+    "name": {
+      "vi": "Đại học Trung Nguyên",
+      "en": "Chung Yuan Christian University",
+      "zh-CN": "中原大学",
+      "zh-TW": "中原大學"
+    },
+    "org": {
+      "vi": "CYCU",
+      "en": "CYCU",
+      "zh-CN": "中原",
+      "zh-TW": "中原"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú (Miễn 100% học phí năm đầu)",
+      "en": "Excellence (100% Tuition Waiver 1st year)",
+      "zh-CN": "优秀生免学费",
+      "zh-TW": "優秀生免學費"
+    },
+    "coverage": "full",
+    "deadline": "2026-04-15",
+    "link": "https://www.cycu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đào Viên"
+      ],
+      "en": [
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "桃园"
+      ],
+      "zh-TW": [
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "cycu",
+      "trung nguyen",
+      "chung yuan"
+    ]
+  },
+  {
+    "id": 56,
+    "name": {
+      "vi": "Học viện quản lý tài chính Trung Tín",
+      "en": "CTBC Financial Management College",
+      "zh-CN": "中信金融管理学院",
+      "zh-TW": "中信金融管理學院"
+    },
+    "org": {
+      "vi": "CTBC",
+      "en": "CTBC",
+      "zh-CN": "中信金管",
+      "zh-TW": "中信金管"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú tài chính (Hỗ trợ sinh hoạt phí)",
+      "en": "Financial Excellence Scholarship",
+      "zh-CN": "金管优秀奖学金",
+      "zh-TW": "金管優秀獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-06-30",
+    "link": "https://ia.ctbc.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Nam"
+      ],
+      "en": [
+        "Tainan"
+      ],
+      "zh-CN": [
+        "台南"
+      ],
+      "zh-TW": [
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "ctbc",
+      "trung tin",
+      "financial management"
+    ]
+  },
+  {
+    "id": 57,
+    "name": {
+      "vi": "Đại học Đại Diệp",
+      "en": "Dayeh University",
+      "zh-CN": "大叶大学",
+      "zh-TW": "大葉大學"
+    },
+    "org": {
+      "vi": "DYU",
+      "en": "DYU",
+      "zh-CN": "大叶",
+      "zh-TW": "大葉"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến khích tài năng",
+      "en": "Talent Encouragement Scholarship",
+      "zh-CN": "优秀人才奖学金",
+      "zh-TW": "優秀人才獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.dyu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Chương Hóa"
+      ],
+      "en": [
+        "Changhua"
+      ],
+      "zh-CN": [
+        "彰化"
+      ],
+      "zh-TW": [
+        "彰化"
+      ]
+    },
+    "keywords": [
+      "dyu",
+      "dai diep",
+      "dayeh"
+    ]
+  },
+  {
+    "id": 58,
+    "name": {
+      "vi": "Đại học Phùng Giáp",
+      "en": "Feng Chia University",
+      "zh-CN": "逢甲大学",
+      "zh-TW": "逢甲大學"
+    },
+    "org": {
+      "vi": "FCU",
+      "en": "FCU",
+      "zh-CN": "逢甲",
+      "zh-TW": "逢甲"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Phùng Giáp",
+      "en": "FCU International Scholarship",
+      "zh-CN": "逢甲国际奖学金",
+      "zh-TW": "逢甲國際獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-24",
+    "link": "https://www.fcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Trung"
+      ],
+      "en": [
+        "Taichung"
+      ],
+      "zh-CN": [
+        "台中"
+      ],
+      "zh-TW": [
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "fcu",
+      "phung giap",
+      "feng chia"
+    ]
+  },
+  {
+    "id": 59,
+    "name": {
+      "vi": "Đại học Phật Quang",
+      "en": "Fo Guang University",
+      "zh-CN": "佛光大学",
+      "zh-TW": "佛光大學"
+    },
+    "org": {
+      "vi": "FGU",
+      "en": "FGU",
+      "zh-CN": "佛光",
+      "zh-TW": "佛光"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn giảm học phí",
+      "en": "Tuition Waiver Scholarship",
+      "zh-CN": "佛光免学杂费",
+      "zh-TW": "佛光免學雜費"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-19",
+    "link": "https://oica.fgu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nghi Lan"
+      ],
+      "en": [
+        "Yilan"
+      ],
+      "zh-CN": [
+        "宜兰"
+      ],
+      "zh-TW": [
+        "宜蘭"
+      ]
+    },
+    "keywords": [
+      "fgu",
+      "phat quang",
+      "fo guang"
+    ]
+  },
+  {
+    "id": 60,
+    "name": {
+      "vi": "Đại học Phụ Nhân",
+      "en": "Fu Jen Catholic University",
+      "zh-CN": "辅仁大学",
+      "zh-TW": "輔仁大學"
+    },
+    "org": {
+      "vi": "FJU",
+      "en": "FJU",
+      "zh-CN": "辅大",
+      "zh-TW": "輔大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn cầu Phụ Nhân",
+      "en": "Fu Jen Global Scholarship",
+      "zh-CN": "辅大全球奖学金",
+      "zh-TW": "輔大全球獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.fju.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Bắc"
+      ],
+      "en": [
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新北"
+      ],
+      "zh-TW": [
+        "新北"
+      ]
+    },
+    "keywords": [
+      "fju",
+      "phu nhan",
+      "fu jen"
+    ]
+  },
+  {
+    "id": 61,
+    "name": {
+      "vi": "Đại học Huyền Trang",
+      "en": "Hsuan Chuang University",
+      "zh-CN": "玄奘大学",
+      "zh-TW": "玄奘大學"
+    },
+    "org": {
+      "vi": "HCU",
+      "en": "HCU",
+      "zh-CN": "玄奘",
+      "zh-TW": "玄奘"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học (Giảm 50% học phí)",
+      "en": "HCU Encouragement Grant (50% Tuition)",
+      "zh-CN": "玄奘助学金",
+      "zh-TW": "玄奘助學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.hcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Trúc"
+      ],
+      "en": [
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "新竹"
+      ],
+      "zh-TW": [
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "hcu",
+      "huyen trang",
+      "hsuan chuang"
+    ]
+  },
+  {
+    "id": 62,
+    "name": {
+      "vi": "Đại học Hoa Phạn",
+      "en": "Huafan University",
+      "zh-CN": "华梵大学",
+      "zh-TW": "華梵大學"
+    },
+    "org": {
+      "vi": "HFU",
+      "en": "HFU",
+      "zh-CN": "华梵",
+      "zh-TW": "華梵"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn học phí và tạp phí",
+      "en": "Full Tuition and Fees Waiver",
+      "zh-CN": "免学杂费奖学金",
+      "zh-TW": "免學雜費獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-06-30",
+    "link": "https://www.hfu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Bắc"
+      ],
+      "en": [
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新北"
+      ],
+      "zh-TW": [
+        "新北"
+      ]
+    },
+    "keywords": [
+      "hfu",
+      "hoa phan",
+      "huafan"
+    ]
+  },
+  {
+    "id": 63,
+    "name": {
+      "vi": "Đại học Nghĩa Thủ",
+      "en": "I-Shou University",
+      "zh-CN": "义守大学",
+      "zh-TW": "義守大學"
+    },
+    "org": {
+      "vi": "ISU",
+      "en": "ISU",
+      "zh-CN": "义大",
+      "zh-TW": "義大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng E-DA (Miễn học phí + Trợ cấp hàng tháng)",
+      "en": "E-DA Scholarship (Tuition + Stipend)",
+      "zh-CN": "义大优异奖学金",
+      "zh-TW": "義大優異獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-05-15",
+    "link": "https://www.isu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cao Hùng"
+      ],
+      "en": [
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "高雄"
+      ],
+      "zh-TW": [
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "isu",
+      "nghia thu",
+      "i-shou",
+      "e-da"
+    ]
+  },
+  {
+    "id": 64,
+    "name": {
+      "vi": "Đại học Khai Nam",
+      "en": "Kainan University",
+      "zh-CN": "开南大学",
+      "zh-TW": "開南大學"
+    },
+    "org": {
+      "vi": "KNU",
+      "en": "KNU",
+      "zh-CN": "开南",
+      "zh-TW": "開南"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng hữu nghị quốc tế",
+      "en": "International Friendship Scholarship",
+      "zh-CN": "开南国际奖学金",
+      "zh-TW": "開南國際獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-10",
+    "link": "https://www.knu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đào Viên"
+      ],
+      "en": [
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "桃园"
+      ],
+      "zh-TW": [
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "knu",
+      "khai nam",
+      "kainan"
+    ]
+  },
+  {
+    "id": 65,
+    "name": {
+      "vi": "Đại học y khoa Cao Hùng",
+      "en": "Kaohsiung Medical University",
+      "zh-CN": "高雄医学大学",
+      "zh-TW": "高雄醫學大學"
+    },
+    "org": {
+      "vi": "KMU",
+      "en": "KMU",
+      "zh-CN": "高医大",
+      "zh-TW": "高醫大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú KMU (Học phí + 10k TWD/tháng)",
+      "en": "KMU Excellence (Tuition + 10k TWD Stipend)",
+      "zh-CN": "高医大奖学金",
+      "zh-TW": "高醫大獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.kmu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Cao Hùng"
+      ],
+      "en": [
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "高雄"
+      ],
+      "zh-TW": [
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "kmu",
+      "y khoa cao hung",
+      "kaohsiung medical"
+    ]
+  },
+  {
+    "id": 66,
+    "name": {
+      "vi": "Học viện Y khoa Mackay",
+      "en": "Mackay Medical College",
+      "zh-CN": "马偕医学院",
+      "zh-TW": "馬偕醫學院"
+    },
+    "org": {
+      "vi": "MMC",
+      "en": "MMC",
+      "zh-CN": "马偕",
+      "zh-TW": "馬偕"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Mackay (Miễn học phí + Sinh hoạt phí)",
+      "en": "Mackay Scholarship (Tuition + Stipend)",
+      "zh-CN": "马偕优异奖学金",
+      "zh-TW": "馬偕優異獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "link": "https://www.mmc.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tam Chi",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Sanzhi",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "三芝",
+        "新北"
+      ],
+      "zh-TW": [
+        "三芝",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "mmc",
+      "y khoa mackay",
+      "mackay medical"
+    ]
+  },
+  {
+    "id": 67,
+    "name": {
+      "vi": "Đại học Minh Truyền",
+      "en": "Ming Chuan University",
+      "zh-CN": "铭传大学",
+      "zh-TW": "銘傳大學"
+    },
+    "org": {
+      "vi": "MCU",
+      "en": "MCU",
+      "zh-CN": "铭传",
+      "zh-TW": "銘傳"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nhập học xuất sắc (Lên đến 100% học phí)",
+      "en": "MCU Merit Scholarship (Up to 100% Tuition)",
+      "zh-CN": "铭传国际生奖学金",
+      "zh-TW": "銘傳國際生獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-05-31",
+    "link": "https://www.mcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Sỹ Lâm",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Shilin",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "士林",
+        "台北"
+      ],
+      "zh-TW": [
+        "士林",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "mcu",
+      "minh truyen",
+      "ming chuan"
+    ]
+  },
+  {
+    "id": 68,
+    "name": {
+      "vi": "Đại học Nam Hoa",
+      "en": "Nanhua University",
+      "zh-CN": "南华大学",
+      "zh-TW": "南華大學"
+    },
+    "org": {
+      "vi": "NHU",
+      "en": "NHU",
+      "zh-CN": "南华",
+      "zh-TW": "南華"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Chương trình miễn học phí 4 năm (Tùy điều kiện)",
+      "en": "4-Year Tuition Waiver Program",
+      "zh-CN": "南华奖学金",
+      "zh-TW": "南華獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-06-30",
+    "link": "https://www.nhu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Gia Nghĩa"
+      ],
+      "en": [
+        "Chiayi"
+      ],
+      "zh-CN": [
+        "嘉义"
+      ],
+      "zh-TW": [
+        "嘉義"
+      ]
+    },
+    "keywords": [
+      "nhu",
+      "nam hoa",
+      "nanhua"
+    ]
+  },
+  {
+    "id": 69,
+    "name": {
+      "vi": "Đại học Tịnh Nghi",
+      "en": "Providence University",
+      "zh-CN": "静宜大学",
+      "zh-TW": "靜宜大學"
+    },
+    "org": {
+      "vi": "PU",
+      "en": "PU",
+      "zh-CN": "静宜",
+      "zh-TW": "靜宜"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng miễn giảm học phí cho năm đầu tiên",
+      "en": "First-Year Tuition Reduction",
+      "zh-CN": "静宜国际生奖学金",
+      "zh-TW": "靜宜國際生獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-10",
+    "link": "https://www.pu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Sa Lộc",
+        "Đài Trung"
+      ],
+      "en": [
+        "Shalu",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "沙鹿",
+        "台中"
+      ],
+      "zh-TW": [
+        "沙鹿",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "pu",
+      "tinh nghi",
+      "providence"
+    ]
+  },
+  {
+    "id": 70,
+    "name": {
+      "vi": "Đại học Thực Tiễn",
+      "en": "Shih Chien University",
+      "zh-CN": "实践大学",
+      "zh-TW": "實踐大學"
+    },
+    "org": {
+      "vi": "USC",
+      "en": "USC",
+      "zh-CN": "实践",
+      "zh-TW": "實踐"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng sinh viên quốc tế",
+      "en": "International Student Scholarship",
+      "zh-CN": "实践大学奖学金",
+      "zh-TW": "實踐大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.usc.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đài Bắc",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Taipei",
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "台北",
+        "高雄"
+      ],
+      "zh-TW": [
+        "臺北",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "usc",
+      "thuc tien",
+      "shih chien"
+    ]
+  },
+  {
+    "id": 71,
+    "name": {
+      "vi": "Đại học Thế Tân",
+      "en": "Shih Hsin University",
+      "zh-CN": "世新大学",
+      "zh-TW": "世新大學"
+    },
+    "org": {
+      "vi": "SHU",
+      "en": "SHU",
+      "zh-CN": "世新",
+      "zh-TW": "世新"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nhập học cho sinh viên ưu tú",
+      "en": "Admission Scholarship for Excellence",
+      "zh-CN": "世新奖学金",
+      "zh-TW": "世新獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.shu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Văn Sơn",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Wenshan",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "文山",
+        "台北"
+      ],
+      "zh-TW": [
+        "文山",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "shu",
+      "the tan",
+      "shih hsin"
+    ]
+  },
+  {
+    "id": 72,
+    "name": {
+      "vi": "Đại học Đông Ngô",
+      "en": "Soochow University",
+      "zh-CN": "东吴大学",
+      "zh-TW": "東吳大學"
+    },
+    "org": {
+      "vi": "SCU",
+      "en": "SCU",
+      "zh-CN": "东吴",
+      "zh-TW": "東吳"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng sinh viên quốc tế",
+      "en": "International Student Scholarship",
+      "zh-CN": "东吴奖学金",
+      "zh-TW": "東吳獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.scu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Sỹ Lâm",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Shilin",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "士林",
+        "台北"
+      ],
+      "zh-TW": [
+        "士林",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "scu",
+      "dong ngo",
+      "soochow"
+    ]
+  },
+  {
+    "id": 73,
+    "name": {
+      "vi": "Đại học Y khoa Đài Bắc",
+      "en": "Taipei Medical University",
+      "zh-CN": "台北医学大学",
+      "zh-TW": "臺北醫學大學"
+    },
+    "org": {
+      "vi": "TMU",
+      "en": "TMU",
+      "zh-CN": "北医大",
+      "zh-TW": "北醫大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng TMU (Học phí + Trợ cấp hàng tháng)",
+      "en": "TMU Scholarship (Full + Stipend)",
+      "zh-CN": "北医大奖学金",
+      "zh-TW": "北醫大獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-15",
+    "link": "https://www.tmu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tín Nghĩa",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Xinyi",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "信义",
+        "台北"
+      ],
+      "zh-TW": [
+        "信義",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "tmu",
+      "y khoa dai bac",
+      "taipei medical"
+    ]
+  },
+  {
+    "id": 74,
+    "name": {
+      "vi": "Đại học Đạm Giang",
+      "en": "Tamkang University",
+      "zh-CN": "淡江大学",
+      "zh-TW": "淡江大學"
+    },
+    "org": {
+      "vi": "TKU",
+      "en": "TKU",
+      "zh-CN": "淡江",
+      "zh-TW": "淡江"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng đầu vào sinh viên quốc tế",
+      "en": "Admission Scholarship",
+      "zh-CN": "淡江国际生奖学金",
+      "zh-TW": "淡江國際生獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.tku.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đạm Thủy",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Tamsui",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "淡水",
+        "新北"
+      ],
+      "zh-TW": [
+        "淡水",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "tku",
+      "dam giang",
+      "tamkang"
+    ]
+  },
+  {
+    "id": 75,
+    "name": {
+      "vi": "Đại học Đại Đồng",
+      "en": "Tatung University",
+      "zh-CN": "大同大学",
+      "zh-TW": "大同大學"
+    },
+    "org": {
+      "vi": "TTU",
+      "en": "TTU",
+      "zh-CN": "大同",
+      "zh-TW": "大同"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Tatung",
+      "en": "Tatung Encouragement Scholarship",
+      "zh-CN": "大同大学奖学金",
+      "zh-TW": "大同大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-30",
+    "link": "https://www.ttu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Trung Sơn",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Zhongshan",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "中山",
+        "台北"
+      ],
+      "zh-TW": [
+        "中山",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "ttu",
+      "dai dong",
+      "tatung"
+    ]
+  },
+  {
+    "id": 76,
+    "name": {
+      "vi": "Đại học Đông Hải",
+      "en": "Tunghai University",
+      "zh-CN": "東海大学",
+      "zh-TW": "東海大學"
+    },
+    "org": {
+      "vi": "THU",
+      "en": "THU",
+      "zh-CN": "东海",
+      "zh-TW": "東海"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú Đông Hải",
+      "en": "Tunghai Excellence Scholarship",
+      "zh-CN": "东海大学奖学金",
+      "zh-TW": "東海大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.thu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tây Đồn",
+        "Đài Trung"
+      ],
+      "en": [
+        "Xitun",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "西屯",
+        "台中"
+      ],
+      "zh-TW": [
+        "西屯",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "thu",
+      "dong hai",
+      "tunghai"
+    ]
+  },
+  {
+    "id": 77,
+    "name": {
+      "vi": "Đại học Từ Tế",
+      "en": "Tzu Chi University",
+      "zh-CN": "慈济大学",
+      "zh-TW": "慈濟大學"
+    },
+    "org": {
+      "vi": "TCU",
+      "en": "TCU",
+      "zh-CN": "慈济",
+      "zh-TW": "慈濟"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng toàn phần Từ Tế (Học phí + Ăn ở)",
+      "en": "Tzu Chi Full Scholarship",
+      "zh-CN": "慈济大学奖学金",
+      "zh-TW": "慈濟大學獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-03-31",
+    "link": "https://www.tcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Hoa Liên"
+      ],
+      "en": [
+        "Hualien"
+      ],
+      "zh-CN": [
+        "花莲"
+      ],
+      "zh-TW": [
+        "花蓮"
+      ]
+    },
+    "keywords": [
+      "tcu",
+      "tu te",
+      "tzu chi"
+    ]
+  },
+  {
+    "id": 78,
+    "name": {
+      "vi": "Đại học Khang Ninh",
+      "en": "University of Kang Ning",
+      "zh-CN": "康宁大学",
+      "zh-TW": "康寧大學"
+    },
+    "org": {
+      "vi": "UKN",
+      "en": "UKN",
+      "zh-CN": "康宁",
+      "zh-TW": "康寧"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng hỗ trợ học phí cho SV quốc tế",
+      "en": "International Student Tuition Grant",
+      "zh-CN": "康宁大学奖学金",
+      "zh-TW": "康寧大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-20",
+    "link": "https://www.ukn.edu.tw/",
+    "tags": {
+      "vi": [
+        "An Nam",
+        "Đài Nam"
+      ],
+      "en": [
+        "Annan",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "安南",
+        "台南"
+      ],
+      "zh-TW": [
+        "安南",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "ukn",
+      "khang ninh",
+      "kang ning"
+    ]
+  },
+  {
+    "id": 79,
+    "name": {
+      "vi": "Đại học Nguyên Trí",
+      "en": "Yuan Ze University",
+      "zh-CN": "元智大学",
+      "zh-TW": "元智大學"
+    },
+    "org": {
+      "vi": "YZU",
+      "en": "YZU",
+      "zh-CN": "元智",
+      "zh-TW": "元智"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Nguyên Trí (Miễn 20% - 100% học phí)",
+      "en": "YZU Scholarship (20%-100% Tuition)",
+      "zh-CN": "元智大学奖学金",
+      "zh-TW": "元智大學獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-04-15",
+    "link": "https://www.yzu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Trung Lịch",
+        "Đào Viên"
+      ],
+      "en": [
+        "Zhongli",
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "中坜",
+        "桃园"
+      ],
+      "zh-TW": [
+        "中壢",
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "yzu",
+      "nguyen tri",
+      "yuan ze"
+    ]
+  },
+  {
+    "id": 80,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Trung Đài",
+      "en": "Central Taiwan University of Science and Technology",
+      "zh-CN": "中台科技大学",
+      "zh-TW": "中臺科技大學"
+    },
+    "org": {
+      "vi": "CTUST",
+      "en": "CTUST",
+      "zh-CN": "中台科大",
+      "zh-TW": "中臺科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học quốc tế",
+      "en": "International Student Grant",
+      "zh-CN": "中台科大奖学金",
+      "zh-TW": "中臺科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.ctust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bắc Đồn",
+        "Đài Trung"
+      ],
+      "en": [
+        "Beitun",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "北屯",
+        "台中"
+      ],
+      "zh-TW": [
+        "北屯",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ctust",
+      "trung dai",
+      "central taiwan"
+    ]
+  },
+  {
+    "id": 81,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Trường Canh",
+      "en": "Chang Gung University of Science and Technology",
+      "zh-CN": "长庚科技大学",
+      "zh-TW": "長庚科技大學"
+    },
+    "org": {
+      "vi": "CGUST",
+      "en": "CGUST",
+      "zh-CN": "长庚科大",
+      "zh-TW": "長庚科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú Trường Canh",
+      "en": "CGUST Excellence Scholarship",
+      "zh-CN": "长庚科大奖学金",
+      "zh-TW": "長庚科大獎學金"
+    },
+    "coverage": "full",
+    "deadline": "2026-05-15",
+    "link": "https://www.cgust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Quy Sơn",
+        "Đào Viên"
+      ],
+      "en": [
+        "Guishan",
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "龟山",
+        "桃园"
+      ],
+      "zh-TW": [
+        "龜山",
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "cgust",
+      "truong canh",
+      "chang gung"
+    ]
+  },
+  {
+    "id": 82,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Triêu Dương",
+      "en": "Chaoyang University of Technology",
+      "zh-CN": "朝阳科技大学",
+      "zh-TW": "朝陽科技大學"
+    },
+    "org": {
+      "vi": "CYUT",
+      "en": "CYUT",
+      "zh-CN": "朝阳科大",
+      "zh-TW": "朝陽科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Triêu Dương",
+      "en": "CYUT International Scholarship",
+      "zh-CN": "朝阳科大奖学金",
+      "zh-TW": "朝陽科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-04-30",
+    "link": "https://www.cyut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vụ Phong",
+        "Đài Trung"
+      ],
+      "en": [
+        "Wufeng",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "雾峰",
+        "台中"
+      ],
+      "zh-TW": [
+        "霧峰",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "cyut",
+      "trieu duong",
+      "chaoyang"
+    ]
+  },
+  {
+    "id": 83,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Chính Tu",
+      "en": "Cheng Shiu University",
+      "zh-CN": "正修科技大学",
+      "zh-TW": "正修科技大學"
+    },
+    "org": {
+      "vi": "CSU",
+      "en": "CSU",
+      "zh-CN": "正修科大",
+      "zh-TW": "正修科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nhập học sinh viên quốc tế",
+      "en": "International Admission Scholarship",
+      "zh-CN": "正修科大奖学金",
+      "zh-TW": "正修科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.csu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Điểu Tùng",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Niaosong",
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "鸟松",
+        "高雄"
+      ],
+      "zh-TW": [
+        "鳥松",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "csu",
+      "chinh tu",
+      "cheng shiu"
+    ]
+  },
+  {
+    "id": 84,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật dược khoa Gia Nam",
+      "en": "Chia Nan University of Pharmacy and Science",
+      "zh-CN": "嘉南药理大学",
+      "zh-TW": "嘉南藥理大學"
+    },
+    "org": {
+      "vi": "CNU",
+      "en": "CNU",
+      "zh-CN": "嘉南药大",
+      "zh-TW": "嘉南藥大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng dược khoa Gia Nam",
+      "en": "CNU Scholarship",
+      "zh-CN": "嘉南药大奖学金",
+      "zh-TW": "嘉南藥理獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.cnu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nhân Đức",
+        "Đài Nam"
+      ],
+      "en": [
+        "Rende",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "仁德",
+        "台南"
+      ],
+      "zh-TW": [
+        "仁德",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "cnu",
+      "chna",
+      "gia nam",
+      "chia nan"
+    ]
+  },
+  {
+    "id": 85,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Kiện Hành",
+      "en": "Chien Hsin University of Science and Technology",
+      "zh-CN": "健行科技大学",
+      "zh-TW": "健行科技大學"
+    },
+    "org": {
+      "vi": "UCH",
+      "en": "UCH",
+      "zh-CN": "健行科大",
+      "zh-TW": "健行科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Kiện Hành (Giảm học phí)",
+      "en": "UCH Tuition Reduction",
+      "zh-CN": "健行科大奖学金",
+      "zh-TW": "健行科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-10",
+    "link": "https://www.uch.edu.tw/",
+    "tags": {
+      "vi": [
+        "Trung Lịch",
+        "Đào Viên"
+      ],
+      "en": [
+        "Zhongli",
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "中坜",
+        "桃园"
+      ],
+      "zh-TW": [
+        "中壢",
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "uch",
+      "kien hanh",
+      "chien hsin"
+    ]
+  },
+  {
+    "id": 86,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Kiến Quốc",
+      "en": "Chienkuo Technology University",
+      "zh-CN": "建国科技大学",
+      "zh-TW": "建國科技大學"
+    },
+    "org": {
+      "vi": "CTU",
+      "en": "CTU",
+      "zh-CN": "建国科大",
+      "zh-TW": "建國科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến khích nhập học",
+      "en": "CTU Enrollment Incentive",
+      "zh-CN": "建国科大奖学金",
+      "zh-TW": "建國科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.ctu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Chương Hóa"
+      ],
+      "en": [
+        "Changhua"
+      ],
+      "zh-CN": [
+        "彰化"
+      ],
+      "zh-TW": [
+        "彰化"
+      ]
+    },
+    "keywords": [
+      "ctu",
+      "kien quoc",
+      "chienkuo"
+    ]
+  },
+  {
+    "id": 87,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Trung Hoa",
+      "en": "China University of Science and Technology",
+      "zh-CN": "中华科技大学",
+      "zh-TW": "中華科技大學"
+    },
+    "org": {
+      "vi": "CUST",
+      "en": "CUST",
+      "zh-CN": "中华科大",
+      "zh-TW": "中華科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng hợp tác quốc tế",
+      "en": "International Cooperation Scholarship",
+      "zh-CN": "中华科大奖学金",
+      "zh-TW": "中華科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.cust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nam Cảng",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Nangang",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "南港",
+        "台北"
+      ],
+      "zh-TW": [
+        "南港",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "cust",
+      "trung hoa",
+      "china university"
+    ]
+  },
+  {
+    "id": 88,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Trung Quốc",
+      "en": "China University of Technology",
+      "zh-CN": "中国科技大学",
+      "zh-TW": "中國科技大學"
+    },
+    "org": {
+      "vi": "CUTE",
+      "en": "CUTE",
+      "zh-CN": "中国科大",
+      "zh-TW": "中國科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng sinh viên ưu tú CUTE",
+      "en": "CUTE Merit Scholarship",
+      "zh-CN": "中国科大奖学金",
+      "zh-TW": "中國科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.cute.edu.tw/",
+    "tags": {
+      "vi": [
+        "Văn Sơn",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Wenshan",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "文山",
+        "台北"
+      ],
+      "zh-TW": [
+        "文山",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "cute",
+      "trung quoc",
+      "china tech"
+    ]
+  },
+  {
+    "id": 89,
+    "name": {
+      "vi": "Đại học công nghệ y học Trung Hoa",
+      "en": "Chung Hwa University of Medical Technology",
+      "zh-CN": "中华医事科技大学",
+      "zh-TW": "中華醫事科技大學"
+    },
+    "org": {
+      "vi": "HWAI",
+      "en": "HWAI",
+      "zh-CN": "中华医大",
+      "zh-TW": "中華醫大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng y tế HWAI",
+      "en": "Medical Scholarship",
+      "zh-CN": "中华医大奖学金",
+      "zh-TW": "中華醫大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.hwai.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nhân Đức",
+        "Đài Nam"
+      ],
+      "en": [
+        "Rende",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "仁德",
+        "台南"
+      ],
+      "zh-TW": [
+        "仁德",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "hwai",
+      "trung hoa y te",
+      "chung hwa medical"
+    ]
+  },
+  {
+    "id": 90,
+    "name": {
+      "vi": "Đại học Công nghệ CTBC",
+      "en": "CTBC University of Technology",
+      "zh-CN": "中信科技大学",
+      "zh-TW": "中信科技大學"
+    },
+    "org": {
+      "vi": "CTBC",
+      "en": "CTBC",
+      "zh-CN": "中信科大",
+      "zh-TW": "中信科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tập đoàn CTBC",
+      "en": "CTBC Group Scholarship",
+      "zh-CN": "中信科大奖学金",
+      "zh-TW": "中信科技大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-20",
+    "link": "https://www.ctbu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Thị",
+        "Đài Nam"
+      ],
+      "en": [
+        "Xinshi",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "新市",
+        "台南"
+      ],
+      "zh-TW": [
+        "新市",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "ctbc",
+      "trung tin",
+      "ctbu"
+    ]
+  },
+  {
+    "id": 91,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Phụ Anh",
+      "en": "Fooyin University",
+      "zh-CN": "辅英科技大学",
+      "zh-TW": "輔英科技大學"
+    },
+    "org": {
+      "vi": "FYU",
+      "en": "FYU",
+      "zh-CN": "辅英科大",
+      "zh-TW": "輔英科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng điều dưỡng Phụ Anh",
+      "en": "FYU Nursing Scholarship",
+      "zh-CN": "辅英科大奖学金",
+      "zh-TW": "輔英科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.fy.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đại Liêu",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Daliao",
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "大寮",
+        "高雄"
+      ],
+      "zh-TW": [
+        "大寮",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "fyu",
+      "phu anh",
+      "fooyin"
+    ]
+  },
+  {
+    "id": 92,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Tỉnh Ngô",
+      "en": "Hsing Wu University",
+      "zh-CN": "醒吾科技大学",
+      "zh-TW": "醒吾科技大學"
+    },
+    "org": {
+      "vi": "HWU",
+      "en": "HWU",
+      "zh-CN": "醒吾科大",
+      "zh-TW": "醒吾科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tài năng Tỉnh Ngô",
+      "en": "HWU Talent Scholarship",
+      "zh-CN": "醒吾科大奖学金",
+      "zh-TW": "醒吾科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.hwu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Lâm Khẩu",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Linkou",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "林口",
+        "新北"
+      ],
+      "zh-TW": [
+        "林口",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "hwu",
+      "tinh ngo",
+      "hsing wu"
+    ]
+  },
+  {
+    "id": 93,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Tu Bình",
+      "en": "Hsiuping University of Science and Technology",
+      "zh-CN": "修平科技大学",
+      "zh-TW": "修平科技大學"
+    },
+    "org": {
+      "vi": "HUST",
+      "en": "HUST",
+      "zh-CN": "修平科大",
+      "zh-TW": "修平科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Tu Bình",
+      "en": "Hsiuping Scholarship",
+      "zh-CN": "修平科大奖学金",
+      "zh-TW": "修平科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-10",
+    "link": "https://www.hust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đại Lý",
+        "Đài Trung"
+      ],
+      "en": [
+        "Dali",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "大里",
+        "台中"
+      ],
+      "zh-TW": [
+        "大里",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "hust",
+      "tu binh",
+      "hsiuping"
+    ]
+  },
+  {
+    "id": 94,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Hoằng Quang",
+      "en": "Hungkuang University",
+      "zh-CN": "弘光科技大学",
+      "zh-TW": "弘光科技大學"
+    },
+    "org": {
+      "vi": "HKU",
+      "en": "HKU",
+      "zh-CN": "弘光科大",
+      "zh-TW": "弘光科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Hồng Quang",
+      "en": "Hungkuang International Scholarship",
+      "zh-CN": "弘光科大奖学金",
+      "zh-TW": "弘光科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.hk.edu.tw/",
+    "tags": {
+      "vi": [
+        "Sa Lộc",
+        "Đài Trung"
+      ],
+      "en": [
+        "Shalu",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "沙鹿",
+        "台中"
+      ],
+      "zh-TW": [
+        "沙鹿",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "hku",
+      "hoang quang",
+      "hungkuang"
+    ]
+  },
+  {
+    "id": 95,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Cảnh Văn",
+      "en": "Jinwen University of Science and Technology",
+      "zh-CN": "景文科技大学",
+      "zh-TW": "景文科技大學"
+    },
+    "org": {
+      "vi": "JUST",
+      "en": "JUST",
+      "zh-CN": "景文科大",
+      "zh-TW": "景文科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nhập học Cảnh Văn",
+      "en": "Jinwen Admission Scholarship",
+      "zh-CN": "景文科大奖学金",
+      "zh-TW": "景文科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-30",
+    "link": "https://www.just.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Điếm",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Xindian",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "新店",
+        "新北"
+      ],
+      "zh-TW": [
+        "新店",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "just",
+      "canh van",
+      "jinwen"
+    ]
+  },
+  {
+    "id": 96,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Đài Cương",
+      "en": "Taiwan Steel University of Science and Technology",
+      "zh-CN": "台钢科技大学",
+      "zh-TW": "台鋼科技大學"
+    },
+    "org": {
+      "vi": "TSUST",
+      "en": "TSUST",
+      "zh-CN": "台钢科大",
+      "zh-TW": "台鋼科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tập đoàn TSG cho SV quốc tế",
+      "en": "TSG Group Scholarship",
+      "zh-CN": "台钢科大奖学金",
+      "zh-TW": "台鋼科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.tsust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Lô Trúc",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Luzhu",
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "路竹",
+        "高雄"
+      ],
+      "zh-TW": [
+        "路竹",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "tsust",
+      "tai gang",
+      "dai cuong",
+      "cao uyen"
+    ]
+  },
+  {
+    "id": 97,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Côn Sơn",
+      "en": "Kun Shan University",
+      "zh-CN": "崑山科技大学",
+      "zh-TW": "崑山科技大學"
+    },
+    "org": {
+      "vi": "KSU",
+      "en": "KSU",
+      "zh-CN": "昆山科大",
+      "zh-TW": "崑山科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Côn Sơn",
+      "en": "KSU International Scholarship",
+      "zh-CN": "昆山科大奖学金",
+      "zh-TW": "崑山科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.ksu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vĩnh Khang",
+        "Đài Nam"
+      ],
+      "en": [
+        "Yongkang",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "永康",
+        "台南"
+      ],
+      "zh-TW": [
+        "永康",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "ksu",
+      "con son",
+      "kun shan"
+    ]
+  },
+  {
+    "id": 98,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Lĩnh Đông",
+      "en": "Ling Tung University",
+      "zh-CN": "岭东科技大学",
+      "zh-TW": "嶺東科技大學"
+    },
+    "org": {
+      "vi": "LTU",
+      "en": "LTU",
+      "zh-CN": "岭东科大",
+      "zh-TW": "嶺東科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Lĩnh Đông quốc tế",
+      "en": "LTU Scholarship",
+      "zh-CN": "岭东科大奖学金",
+      "zh-TW": "嶺東科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.ltu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nam Đồn",
+        "Đài Trung"
+      ],
+      "en": [
+        "Nantun",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "南屯",
+        "台中"
+      ],
+      "zh-TW": [
+        "南屯",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ltu",
+      "linh dong",
+      "ling tung"
+    ]
+  },
+  {
+    "id": 99,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Long Hoa",
+      "en": "Lunghwa University of Science and Technology",
+      "zh-CN": "龙华科技大学",
+      "zh-TW": "龍華科技大學"
+    },
+    "org": {
+      "vi": "LHU",
+      "en": "LHU",
+      "zh-CN": "龙华科d大",
+      "zh-TW": "龍華科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Long Hoa",
+      "en": "LHU International Scholarship",
+      "zh-CN": "龙华科大奖学金",
+      "zh-TW": "龍華科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.lhu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Quy Sơn",
+        "Đào Viên"
+      ],
+      "en": [
+        "Guishan",
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "龟山",
+        "桃园"
+      ],
+      "zh-TW": [
+        "龜山",
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "lhu",
+      "long hoa",
+      "lunghwa"
+    ]
+  },
+  {
+    "id": 100,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Mỹ Hòa",
+      "en": "Meiho University",
+      "zh-CN": "美和科技大学",
+      "zh-TW": "美和科技大學"
+    },
+    "org": {
+      "vi": "MU",
+      "en": "MU",
+      "zh-CN": "美和科大",
+      "zh-TW": "美和科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Mỹ Hòa",
+      "en": "Meiho Encouragement Scholarship",
+      "zh-CN": "美和科大奖学金",
+      "zh-TW": "美和科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.meiho.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nội Phố",
+        "Bình Đông"
+      ],
+      "en": [
+        "Neipu",
+        "Pingtung"
+      ],
+      "zh-CN": [
+        "内埔",
+        "屏东"
+      ],
+      "zh-TW": [
+        "內埔",
+        "屏東"
+      ]
+    },
+    "keywords": [
+      "mu",
+      "my hoa",
+      "meiho"
+    ]
+  },
+  {
+    "id": 101,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Minh Chí",
+      "en": "Ming Chi University of Technology",
+      "zh-CN": "明志科技大学",
+      "zh-TW": "明志科技大學"
+    },
+    "org": {
+      "vi": "MCUT",
+      "en": "MCUT",
+      "zh-CN": "明志科大",
+      "zh-TW": "明志科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nghiên cứu Minh Chí",
+      "en": "MCUT Research Scholarship",
+      "zh-CN": "明志科大奖学金",
+      "zh-TW": "明志科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.mcut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Thái Sơn",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Taishan",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "泰山",
+        "新北"
+      ],
+      "zh-TW": [
+        "泰山",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "mcut",
+      "minh chi",
+      "ming chi"
+    ]
+  },
+  {
+    "id": 102,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Minh Tân",
+      "en": "Minghsin University of Science and Technology",
+      "zh-CN": "明新科技大学",
+      "zh-TW": "明新科技大學"
+    },
+    "org": {
+      "vi": "MUST",
+      "en": "MUST",
+      "zh-CN": "明新科大",
+      "zh-TW": "明新科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Minh Tân",
+      "en": "MUST International Scholarship",
+      "zh-CN": "明新科大奖学金",
+      "zh-TW": "明新科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.must.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tân Phong",
+        "Tân Trúc"
+      ],
+      "en": [
+        "Xinfeng",
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "新丰",
+        "新竹"
+      ],
+      "zh-TW": [
+        "新豐",
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "must",
+      "minh tan",
+      "minghsin"
+    ]
+  },
+  {
+    "id": 103,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Nam Khai",
+      "en": "Nan Kai University of Technology",
+      "zh-CN": "南开科技大学",
+      "zh-TW": "南開科技大學"
+    },
+    "org": {
+      "vi": "NKUT",
+      "en": "NKUT",
+      "zh-CN": "南开科大",
+      "zh-TW": "南開科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nhập học Nam Khai",
+      "en": "Nan Kai Admission Scholarship",
+      "zh-CN": "南开科大奖学金",
+      "zh-TW": "南開科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-20",
+    "link": "https://www.nkut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Thảo Đồn",
+        "Nam Đầu"
+      ],
+      "en": [
+        "Caotun",
+        "Nantou"
+      ],
+      "zh-CN": [
+        "草屯",
+        "南投"
+      ],
+      "zh-TW": [
+        "草屯",
+        "南投"
+      ]
+    },
+    "keywords": [
+      "nkut",
+      "nam khai",
+      "nan kai"
+    ]
+  },
+  {
+    "id": 104,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Kiều Quang",
+      "en": "Overseas Chinese University",
+      "zh-CN": "侨光科技大学",
+      "zh-TW": "僑光科技大學"
+    },
+    "org": {
+      "vi": "OCU",
+      "en": "OCU",
+      "zh-CN": "侨光科大",
+      "zh-TW": "僑光科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ưu tú Kiều Quang",
+      "en": "OCU Merit Scholarship",
+      "zh-CN": "侨光科大奖学金",
+      "zh-TW": "僑光科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-30",
+    "link": "https://www.ocu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tây Đồn",
+        "Đài Trung"
+      ],
+      "en": [
+        "Xitun",
+        "Taichung"
+      ],
+      "zh-CN": [
+        "西屯",
+        "台中"
+      ],
+      "zh-TW": [
+        "西屯",
+        "臺中"
+      ]
+    },
+    "keywords": [
+      "ocu",
+      "kieu quang",
+      "overseas chinese"
+    ]
+  },
+  {
+    "id": 105,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Nam Đài",
+      "en": "Southern Taiwan University of Science and Technology",
+      "zh-CN": "南台科技大学",
+      "zh-TW": "南臺科技大學"
+    },
+    "org": {
+      "vi": "STUST",
+      "en": "STUST",
+      "zh-CN": "南台科大",
+      "zh-TW": "南臺科大"
+    },
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Nam Đài",
+      "en": "STUST Scholarship",
+      "zh-CN": "南台科大奖学金",
+      "zh-TW": "南臺科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.stust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vĩnh Khang",
+        "Đài Nam"
+      ],
+      "en": [
+        "Yongkang",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "永康",
+        "台南"
+      ],
+      "zh-TW": [
+        "永康",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "stust",
+      "nam dai",
+      "southern taiwan"
+    ]
+  },
+  {
+    "id": 106,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Thánh John",
+      "en": "St. John's University",
+      "zh-CN": "圣约翰科技大学",
+      "zh-TW": "聖約翰科技大學"
+    },
+    "org": {
+      "vi": "SJU",
+      "en": "SJU",
+      "zh-CN": "圣约翰科大",
+      "zh-TW": "聖約翰科大"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Thánh John",
+      "en": "SJU Encouragement Scholarship",
+      "zh-CN": "圣约翰科大奖学金",
+      "zh-TW": "聖約翰科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.sju.edu.tw/",
+    "tags": {
+      "vi": [
+        "Đạm Thủy",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Tamsui",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "淡水",
+        "新北"
+      ],
+      "zh-TW": [
+        "淡水",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "sju",
+      "thanh john",
+      "st john"
+    ]
+  },
+  {
+    "id": 107,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Thụ Đức",
+      "en": "Shu-Te University",
+      "zh-CN": "树德科技大学",
+      "zh-TW": "樹德科技大學"
+    },
+    "org": {
+      "vi": "STU",
+      "en": "STU",
+      "zh-CN": "树德科大",
+      "zh-TW": "樹德科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng quốc tế Thụ Đức",
+      "en": "Shu-Te Scholarship",
+      "zh-CN": "树德科大奖学金",
+      "zh-TW": "樹德科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.stu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Yên Sào",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Yanchao",
+        "Kaohsiung"
+      ],
+      "zh-CN": [
+        "燕巢",
+        "高雄"
+      ],
+      "zh-TW": [
+        "燕巢",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "stu",
+      "thu duc",
+      "shu-te"
+    ]
+  },
+  {
+    "id": 108,
+    "name": {
+      "vi": "Đại học khoa học và công nghệ Mẫn Thực",
+      "en": "Minth University of Science and Technology",
+      "zh-CN": "敏实科技大学",
+      "zh-TW": "敏實科技大學"
+    },
+    "org": {
+      "vi": "MITUST",
+      "en": "MITUST",
+      "zh-CN": "敏实科大",
+      "zh-TW": "敏實科大"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tập đoàn Minth",
+      "en": "Minth Group Scholarship",
+      "zh-CN": "敏实科大奖学金",
+      "zh-TW": "敏實科技大學獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.mitust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Khung Lâm",
+        "Tân Trúc"
+      ],
+      "en": [
+        "Qionglin",
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "芎林",
+        "新竹"
+      ],
+      "zh-TW": [
+        "芎林",
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "mitust",
+      "man thuc",
+      "minth"
+    ]
+  },
+  {
+    "id": 109,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật ứng dụng Đài Nam",
+      "en": "Tainan University of Technology",
+      "zh-CN": "台南应用科技大学",
+      "zh-TW": "臺南應用科技大學"
+    },
+    "org": {
+      "vi": "TUT",
+      "en": "TUT",
+      "zh-CN": "台南应大",
+      "zh-TW": "臺南應大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nghệ thuật TUT",
+      "en": "TUT Arts Scholarship",
+      "zh-CN": "台南应大奖学金",
+      "zh-TW": "臺南應大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.tut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Vĩnh Khang",
+        "Đài Nam"
+      ],
+      "en": [
+        "Yongkang",
+        "Tainan"
+      ],
+      "zh-CN": [
+        "永康",
+        "台南"
+      ],
+      "zh-TW": [
+        "永康",
+        "臺南"
+      ]
+    },
+    "keywords": [
+      "tut",
+      "ung dung dai nam",
+      "tainan tech"
+    ]
+  },
+  {
+    "id": 110,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Thành thị Đài Bắc",
+      "en": "Taipei Chengshih University of Science and Technology",
+      "zh-CN": "台北城市科技大学",
+      "zh-TW": "臺北城市科技大學"
+    },
+    "org": {
+      "vi": "TPCU",
+      "en": "TPCU",
+      "zh-CN": "城市科大",
+      "zh-TW": "城市科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Thành thị Đài Bắc",
+      "en": "TPCU Scholarship",
+      "zh-CN": "城市科大奖学金",
+      "zh-TW": "城市科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-20",
+    "link": "https://www.tpcu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bắc Đầu",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Beitou",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "北投",
+        "台北"
+      ],
+      "zh-TW": [
+        "北投",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "tpcu",
+      "thanh thi dai bac",
+      "chengshih"
+    ]
+  },
+  {
+    "id": 111,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Đại Nhân",
+      "en": "Tajen University",
+      "zh-CN": "大仁科技大学",
+      "zh-TW": "大仁科技大學"
+    },
+    "org": {
+      "vi": "Tajen",
+      "en": "Tajen",
+      "zh-CN": "大仁科大",
+      "zh-TW": "大仁科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng y dược Đại Nhân",
+      "en": "Tajen Medical Scholarship",
+      "zh-CN": "大仁科大奖学金",
+      "zh-TW": "大仁科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-10",
+    "link": "https://www.tajen.edu.tw/",
+    "tags": {
+      "vi": [
+        "Diêm Phố",
+        "Bình Đông"
+      ],
+      "en": [
+        "Yanpu",
+        "Pingtung"
+      ],
+      "zh-CN": [
+        "盐埔",
+        "屏东"
+      ],
+      "zh-TW": [
+        "鹽埔",
+        "屏東"
+      ]
+    },
+    "keywords": [
+      "tajen",
+      "dai nhan"
+    ]
+  },
+  {
+    "id": 112,
+    "name": {
+      "vi": "Đại học KH kỹ thuật tài chính kinh tế Đức Minh",
+      "en": "Takming University of Science and Technology",
+      "zh-CN": "德明财经科技大学",
+      "zh-TW": "德明財經科技大學"
+    },
+    "org": {
+      "vi": "TMUST",
+      "en": "TMUST",
+      "zh-CN": "德明科大",
+      "zh-TW": "德明科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng kinh tế Đức Minh",
+      "en": "Takming Economics Scholarship",
+      "zh-CN": "德明科大奖学金",
+      "zh-TW": "德明科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.takming.edu.tw/",
+    "tags": {
+      "vi": [
+        "Nội Hồ",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Neihu",
+        "Taipei"
+      ],
+      "zh-CN": [
+        "内湖",
+        "台北"
+      ],
+      "zh-TW": [
+        "內湖",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "tmust",
+      "duc minh",
+      "takming"
+    ]
+  },
+  {
+    "id": 113,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Đông Nam",
+      "en": "Tungnan University",
+      "zh-CN": "东南科技大学",
+      "zh-TW": "東南科技大學"
+    },
+    "org": {
+      "vi": "TNU",
+      "en": "TNU",
+      "zh-CN": "东南科大",
+      "zh-TW": "東南科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Đông Nam",
+      "en": "TNU Encouragement Scholarship",
+      "zh-CN": "东南科大奖学金",
+      "zh-TW": "東南科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.tnu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Thâm Khanh",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Shenkeng",
+        "New Taipei"
+      ],
+      "zh-CN": [
+        "深坑",
+        "新北"
+      ],
+      "zh-TW": [
+        "深坑",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "tnu",
+      "dong nam",
+      "tungnan"
+    ]
+  },
+  {
+    "id": 114,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Vạn Năng",
+      "en": "Vanung University",
+      "zh-CN": "万能科技大学",
+      "zh-TW": "萬能科技大學"
+    },
+    "org": {
+      "vi": "VNU",
+      "en": "VNU",
+      "zh-CN": "万能科大",
+      "zh-TW": "萬能科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Vạn Năng cho SV quốc tế",
+      "en": "VNU International Scholarship",
+      "zh-CN": "万能科大奖学金",
+      "zh-TW": "萬能科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-25",
+    "link": "https://www.vnu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Trung Lịch",
+        "Đào Viên"
+      ],
+      "en": [
+        "Zhongli",
+        "Taoyuan"
+      ],
+      "zh-CN": [
+        "中历",
+        "桃园"
+      ],
+      "zh-TW": [
+        "中壢",
+        "桃園"
+      ]
+    },
+    "keywords": [
+      "vnu",
+      "van nang",
+      "vanung"
+    ]
+  },
+  {
+    "id": 115,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Ngô Phượng",
+      "en": "WuFeng University",
+      "zh-CN": "吴凤科技大学",
+      "zh-TW": "吳鳳科技大學"
+    },
+    "org": {
+      "vi": "WFU",
+      "en": "WFU",
+      "zh-CN": "吴凤科大",
+      "zh-TW": "吳鳳科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Ngô Phượng",
+      "en": "WuFeng Scholarship",
+      "zh-CN": "吴凤科大奖学金",
+      "zh-TW": "吳鳳科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.wfu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Dân Hùng",
+        "Gia Nghĩa"
+      ],
+      "en": [
+        "Minxiong",
+        "Chiayi"
+      ],
+      "zh-CN": [
+        "民雄",
+        "嘉义"
+      ],
+      "zh-TW": [
+        "民雄",
+        "嘉義"
+      ]
+    },
+    "keywords": [
+      "wfu",
+      "ngo phuong",
+      "wufeng"
+    ]
+  },
+  {
+    "id": 116,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Dục Đạt",
+      "en": "Yu Da University of Science and Technology",
+      "zh-CN": "育达科技大学",
+      "zh-TW": "育達科技大學"
+    },
+    "org": {
+      "vi": "YDU",
+      "en": "YDU",
+      "zh-CN": "育达科大",
+      "zh-TW": "育達科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng tài năng Dục Đạt",
+      "en": "Yu Da Talent Scholarship",
+      "zh-CN": "育达科大奖学金",
+      "zh-TW": "育達科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.ydu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tạo Kiều",
+        "Miêu Lật"
+      ],
+      "en": [
+        "Zaoqiao",
+        "Miaoli"
+      ],
+      "zh-CN": [
+        "造桥",
+        "苗栗"
+      ],
+      "zh-TW": [
+        "造橋",
+        "苗栗"
+      ]
+    },
+    "keywords": [
+      "ydu",
+      "duc dat",
+      "yu da"
+    ]
+  },
+  {
+    "id": 117,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Nguyên Bồi",
+      "en": "Yuanpei University of Medical Technology",
+      "zh-CN": "元培医事科技大学",
+      "zh-TW": "元培醫事科技大學"
+    },
+    "org": {
+      "vi": "YPU",
+      "en": "YPU",
+      "zh-CN": "元培科大",
+      "zh-TW": "元培科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng y tế Nguyên Bồi",
+      "en": "Yuanpei Medical Scholarship",
+      "zh-CN": "元培科大奖学金",
+      "zh-TW": "元培科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.ypu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Hương Sơn",
+        "Tân Trúc"
+      ],
+      "en": [
+        "Xiangshan",
+        "Hsinchu"
+      ],
+      "zh-CN": [
+        "香山",
+        "新竹"
+      ],
+      "zh-TW": [
+        "香山",
+        "新竹"
+      ]
+    },
+    "keywords": [
+      "ypu",
+      "nguyen boi",
+      "yuanpei"
+    ]
+  },
+  {
+    "id": 118,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Trí Lý",
+      "en": "Chihlee University of Technology",
+      "zh-CN": "致理科技大学",
+      "zh-TW": "致理科技大學"
+    },
+    "org": {
+      "vi": "CLUT",
+      "en": "CLUT",
+      "zh-CN": "致理科大",
+      "zh-TW": "致理科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Trí Lý",
+      "en": "Chihlee Scholarship",
+      "zh-TW": "致理科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.chihlee.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bản Kiều",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Banqiao",
+        "New Taipei"
+      ],
+      "zh-TW": [
+        "板橋",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "clut",
+      "tri ly",
+      "chihlee"
+    ]
+  },
+  {
+    "id": 119,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Đức Dục",
+      "en": "Deh Yu University of Medical and Health",
+      "zh-CN": "德育护理健康学院",
+      "zh-TW": "德育護理健康學院"
+    },
+    "org": {
+      "vi": "DYU",
+      "en": "DYU",
+      "zh-CN": "德育学院",
+      "zh-TW": "德育學院"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng điều dưỡng Đức Dục",
+      "en": "Deh Yu Scholarship",
+      "zh-TW": "德育學院獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-15",
+    "link": "https://www.dyu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Trung Sơn",
+        "Cơ Long"
+      ],
+      "en": [
+        "Zhongshan",
+        "Keelung"
+      ],
+      "zh-TW": [
+        "中山",
+        "基隆"
+      ]
+    },
+    "keywords": [
+      "dyu",
+      "duc duc",
+      "kinh quoc",
+      "deh yu"
+    ]
+  },
+  {
+    "id": 120,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Sùng Hữu",
+      "en": "Chungyu University of Film and Arts",
+      "zh-CN": "崇右影艺科技大学",
+      "zh-TW": "崇右影藝科技大學"
+    },
+    "org": {
+      "vi": "CUA",
+      "en": "CUA",
+      "zh-CN": "崇右科大",
+      "zh-TW": "崇右科大"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng nghệ thuật Sùng Hữu",
+      "en": "Chungyu Scholarship",
+      "zh-TW": "崇右科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-30",
+    "link": "https://www.cufa.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tín Nghĩa",
+        "Cơ Long"
+      ],
+      "en": [
+        "Xinyi",
+        "Keelung"
+      ],
+      "zh-TW": [
+        "信義",
+        "基隆"
+      ]
+    },
+    "keywords": [
+      "cua",
+      "sung huu",
+      "chungyu"
+    ]
+  },
+  {
+    "id": 121,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Hoành Quốc Đức Lâm",
+      "en": "Hung Kuo Delin University of Technology",
+      "zh-CN": "宏国德霖科技大学",
+      "zh-TW": "宏國德霖科技大學"
+    },
+    "org": {
+      "vi": "HDUT",
+      "en": "HDUT",
+      "zh-CN": "德霖科大",
+      "zh-TW": "德霖科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng Hoành Quốc Đức Lâm",
+      "en": "Delin Scholarship",
+      "zh-TW": "德霖科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-20",
+    "link": "https://www.hdut.edu.tw/",
+    "tags": {
+      "vi": [
+        "Thổ Thành",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Tucheng",
+        "New Taipei"
+      ],
+      "zh-TW": [
+        "土城",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "hdut",
+      "duc lam",
+      "delin"
+    ]
+  },
+  {
+    "id": 122,
+    "name": {
+      "vi": "Học viện kỹ thuật Lê Minh",
+      "en": "Lee-Ming Institute of Technology",
+      "zh-CN": "黎明技术学院",
+      "zh-TW": "黎明技術學院"
+    },
+    "org": {
+      "vi": "LIT",
+      "en": "LIT",
+      "zh-CN": "黎明学院",
+      "zh-TW": "黎明學院"
+    },
+    "level": [
+      "bachelor"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng khuyến học Lê Minh",
+      "en": "Lee-Ming Scholarship",
+      "zh-TW": "黎明學院獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-10",
+    "link": "https://www.lit.edu.tw/",
+    "tags": {
+      "vi": [
+        "Thái Sơn",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Taishan",
+        "New Taipei"
+      ],
+      "zh-TW": [
+        "泰山",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "lit",
+      "le minh",
+      "lee-ming"
+    ]
+  },
+  {
+    "id": 123,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật Á Đông",
+      "en": "Asia Eastern University of Science and Technology",
+      "zh-CN": "亚东科技大学",
+      "zh-TW": "亞東科技大學"
+    },
+    "org": {
+      "vi": "AEUST",
+      "en": "AEUST",
+      "zh-CN": "亚东科大",
+      "zh-TW": "亞東科大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng công nghệ Á Đông",
+      "en": "AEUST Scholarship",
+      "zh-TW": "亞東科大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-15",
+    "link": "https://www.aeust.edu.tw/",
+    "tags": {
+      "vi": [
+        "Bản Kiều",
+        "Tân Bắc"
+      ],
+      "en": [
+        "Banqiao",
+        "New Taipei"
+      ],
+      "zh-TW": [
+        "板橋",
+        "新北"
+      ]
+    },
+    "keywords": [
+      "aeust",
+      "a dong",
+      "oriental",
+      "oit"
+    ]
+  },
+  {
+    "id": 124,
+    "name": {
+      "vi": "Đại học khoa học kỹ thuật biển Đài Bắc",
+      "en": "Taipei University of Marine Technology",
+      "zh-CN": "台北海洋科技大学",
+      "zh-TW": "臺北海洋科技大學"
+    },
+    "org": {
+      "vi": "TUMT",
+      "en": "TUMT",
+      "zh-CN": "海大",
+      "zh-TW": "海大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng hàng hải Đài Bắc",
+      "en": "TUMT Scholarship",
+      "zh-TW": "海大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-06-25",
+    "link": "https://www.tumt.edu.tw/",
+    "tags": {
+      "vi": [
+        "Sỹ Lâm",
+        "Đài Bắc"
+      ],
+      "en": [
+        "Shilin",
+        "Taipei"
+      ],
+      "zh-TW": [
+        "士林",
+        "臺北"
+      ]
+    },
+    "keywords": [
+      "tumt",
+      "bien dai bac",
+      "maritime"
+    ]
+  },
+  {
+    "id": 125,
+    "name": {
+      "vi": "Đại học ngoại ngữ Văn Tảo",
+      "en": "Wenzao Ursuline University of Languages",
+      "zh-CN": "文藻外语大学",
+      "zh-TW": "文藻外語大學"
+    },
+    "org": {
+      "vi": "WZU",
+      "en": "WZU",
+      "zh-CN": "文藻外大",
+      "zh-TW": "文藻外大"
+    },
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "type": "uni",
+    "value": {
+      "vi": "Học bổng ngoại ngữ Văn Tảo",
+      "en": "WZU Scholarship",
+      "zh-TW": "文藻外大獎學金"
+    },
+    "coverage": "partial",
+    "deadline": "2026-05-31",
+    "link": "https://www.wzu.edu.tw/",
+    "tags": {
+      "vi": [
+        "Tam Dân",
+        "Cao Hùng"
+      ],
+      "en": [
+        "Sanmin",
+        "Kaohsiung"
+      ],
+      "zh-TW": [
+        "三民",
+        "高雄"
+      ]
+    },
+    "keywords": [
+      "wzu",
+      "van tao",
+      "wenzao"
+    ]
+  }
+]

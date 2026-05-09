@@ -1,0 +1,76 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 40px 0;
+  position: relative;
+  z-index: 50;
+}
+
+.pageBtn {
+  padding: 8px 15px;
+  border: 1px solid var(--navy);
+  background: white;
+  color: var(--navy);
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: all 0.3s;
+  font-family: inherit;
+  font-size: 0.85rem;
+}
+
+.pageBtn:hover:not(:disabled) {
+  background: var(--light);
+}
+
+.pageBtn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.pageBtnActive {
+  background: var(--red);
+  border-color: var(--red);
+  color: white;
+}
+
+.dots {
+  padding: 0 4px;
+  color: var(--gray);
+  align-self: center;
+}
+
+.gotoWrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 12px;
+}
+
+.gotoInput {
+  width: 64px;
+  padding: 6px 8px;
+  border: 2px solid #E5E7EB;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.83rem;
+  text-align: center;
+  outline: none;
+}
+
+.gotoInput:focus {
+  border-color: var(--red);
+}
+
+.gotoBtn {
+  padding: 8px 15px;
+  border: 1px solid var(--navy);
+  background: var(--navy);
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: inherit;
+  font-size: 0.85rem;
+}

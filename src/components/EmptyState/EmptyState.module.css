@@ -1,0 +1,43 @@
+.empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--gray);
+}
+
+.emptyIcon {
+  font-size: 44px;
+  margin-bottom: 10px;
+}
+
+.empty h3 {
+  font-size: 1rem;
+  margin-bottom: 6px;
+  color: var(--navy);
+}
+
+.empty p {
+  margin-bottom: 20px;
+}
+
+.resetBtn {
+  padding: 10px 24px;
+  border: 2px solid var(--navy);
+  background: var(--white);
+  color: var(--navy);
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.resetBtn:hover {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.resetBtn:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}

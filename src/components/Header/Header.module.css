@@ -1,0 +1,83 @@
+.header {
+  background: rgba(255, 255, 255, 0.75);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 1px 8px rgba(13,27,62,0.06);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.headerInner {
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 24px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logoIcon {
+  font-size: 24px;
+}
+
+.logoText {
+  color: var(--navy);
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.logoSub {
+  color: var(--red);
+  font-size: 0.66rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.langSelect {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--white);
+  border: 2px solid var(--border-light);
+  color: var(--navy);
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 7px 32px 7px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.15s;
+}
+
+.langSelect:hover {
+  background: var(--cream);
+  border-color: var(--gold);
+}
+
+.langSelect:focus {
+  background: var(--white);
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px rgba(245,166,35,0.2);
+}
+
+.langSelect option {
+  background-color: var(--white);
+  color: var(--navy);
+}
+
+@media (max-width: 600px) {
+  .headerInner {
+    justify-content: center;
+  }
+}

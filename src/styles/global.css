@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800&family=Noto+Sans+TC:wght@400;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --red: #E8192C;
+  --navy: #0D1B3E;
+  --gold: #F5A623;
+  --cream: #FDF8F2;
+  --gray: #6B7280;
+  --light: #F3F4F6;
+  --white: #fff;
+  --shadow: 0 4px 24px rgba(13,27,62,0.08);
+  --bg-deep: #F5F0EB;
+  --card-bg: #FFFFFF;
+  --border-light: #E2E8F0;
+  --text-secondary: #4A5568;
+}
+
+html, body, #root {
+  background: var(--bg-deep);
+}
+
+body {
+  font-family: 'Be Vietnam Pro', 'Noto Sans TC', sans-serif;
+  color: var(--navy);
+  min-height: 100vh;
+}
+
+/* Screen-reader only utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

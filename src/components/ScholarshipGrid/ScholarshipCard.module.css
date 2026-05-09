@@ -1,0 +1,141 @@
+/* Card with light theme */
+.card {
+  background: var(--white);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border-light);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  transition: box-shadow 0.3s, border-color 0.3s, transform 0.2s;
+}
+
+.card:hover {
+  border-color: var(--gold);
+  box-shadow: 0 8px 28px rgba(13,27,62,0.12);
+  transform: translateY(-2px);
+}
+
+/* HOT card glow */
+.hotCard {
+  border-color: rgba(245, 166, 35, 0.3);
+}
+
+.hotCard:hover {
+  box-shadow: 0 0 25px rgba(245, 166, 35, 0.2), 0 8px 28px rgba(13,27,62,0.1);
+}
+
+/* Badge HOT pulse */
+.badgeHot {
+  animation: badgePulse 2s ease-in-out infinite;
+}
+
+@keyframes badgePulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.08); }
+}
+
+.cardExpired {
+  opacity: 0.55;
+}
+
+.cardTop {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.cardBadges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.badge {
+  font-size: 0.67rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 20px;
+}
+
+.badgeLevel {
+  background: rgba(67, 56, 202, 0.1);
+  color: #4338CA;
+}
+
+.badgeHot {
+  background: var(--red);
+  color: white;
+}
+
+.badgeExpired {
+  background: rgba(153, 27, 27, 0.12);
+  color: #991B1B;
+}
+
+.cardDeadline {
+  font-size: 0.7rem;
+  color: var(--gray);
+  text-align: right;
+  white-space: nowrap;
+}
+
+.cardDeadlineUrgent {
+  color: var(--red);
+  font-weight: 700;
+}
+
+.cardOrg {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+}
+
+.cardTitle {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--navy);
+}
+
+.cardValue {
+  background: rgba(245, 166, 35, 0.1);
+  border-left: 3px solid var(--gold);
+  padding: 8px 12px;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.81rem;
+  color: var(--navy);
+  font-weight: 600;
+}
+
+.cardBottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+}
+
+.cardLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--red);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.favBtn {
+  background: none;
+  border: none;
+  font-size: 1.3rem;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+}

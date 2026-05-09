@@ -1,0 +1,130 @@
+.searchSection {
+  max-width: 1200px;
+  margin: -26px auto 0;
+  padding: 0 24px;
+  position: relative;
+  z-index: 10;
+}
+
+.searchBox {
+  background: var(--white);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-light);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  transition: box-shadow 0.3s;
+}
+
+.searchBox:focus-within {
+  box-shadow: 0 4px 24px rgba(13,27,62,0.12), 0 0 30px rgba(245,166,35,0.15);
+}
+
+.searchRow {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.searchInputWrap {
+  flex: 1;
+  min-width: 200px;
+  position: relative;
+}
+
+.searchIcon {
+  position: absolute;
+  left: 13px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 15px;
+  pointer-events: none;
+}
+
+.searchInput, .select {
+  width: 100%;
+  padding: 11px 12px 11px 38px;
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  font-family: inherit;
+  font-size: 0.86rem;
+  color: var(--navy);
+  background: var(--white);
+  transition: border 0.2s, box-shadow 0.2s;
+  outline: none;
+}
+
+.searchInput::placeholder {
+  color: #9CA3AF;
+}
+
+.select {
+  padding-left: 12px;
+  cursor: pointer;
+}
+
+.searchInput:focus, .select:focus {
+  border-color: var(--red);
+  background: var(--white);
+  box-shadow: 0 0 0 3px rgba(232,25,44,0.10);
+}
+
+.searchInput:focus {
+  box-shadow: 0 0 0 3px rgba(232,25,44,0.10), 0 0 20px rgba(245,166,35,0.10);
+}
+
+.filterChips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.chipLabel {
+  font-size: 0.76rem;
+  color: var(--gray);
+  font-weight: 500;
+  margin-right: 4px;
+}
+
+.chip {
+  padding: 5px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border-light);
+  background: var(--white);
+  font-size: 0.76rem;
+  font-family: inherit;
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--navy);
+  transition: all 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+
+.chip:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: rgba(245, 166, 35, 0.08);
+  transform: scale(1.05);
+}
+
+.chip:active {
+  transform: scale(0.95);
+}
+
+.chipActive {
+  background: var(--red);
+  border-color: var(--red);
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .searchRow {
+    flex-direction: column;
+  }
+}
