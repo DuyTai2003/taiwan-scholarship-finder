@@ -1,9 +1,46 @@
 import { useState, useMemo, useCallback } from 'react';
 import scholarships from '../data/scholarships.json';
+import { fuzzyMatch } from '../utils/fuzzySearch';
+import { Trie } from '../utils/trie';
 
 function norm(str) {
   if (!str) return '';
   return str.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd');
+}
+
+/**
+ * Build Trie index from all scholarship searchable fields.
+ * Returns a Trie containing all unique searchable terms.
+ */
+function buildSearchIndex(data) {
+  const trie = new Trie();
+  const seen = new Set();
+  for (const s of data) {
+    const fields = [
+      s.name?.vi, s.name?.en, s.name?.['zh-CN'], s.name?.['zh-TW'],
+      s.org?.vi, s.org?.en, s.org?.['zh-CN'], s.org?.['zh-TW'],
+      ...(s.keywords || []),
+    ];
+    for (const f of fields) {
+      if (f && !seen.has(f)) {
+        seen.add(f);
+        trie.insert(f);
+        // Also index normalized version
+        const normalized = norm(f);
+        if (normalized !== f) trie.insert(normalized);
+      }
+    }
+  }
+  return trie;
+}
+
+// Build index once at module level (lazy)
+let _searchIndex = null;
+function getSearchIndex() {
+  if (!_searchIndex) {
+    _searchIndex = buildSearchIndex(scholarships);
+  }
+  return _searchIndex;
 }
 
 function matchSearch(scholarship, query) {
@@ -16,7 +53,13 @@ function matchSearch(scholarship, query) {
     scholarship.org?.['zh-CN'], scholarship.org?.['zh-TW'],
     ...(scholarship.keywords || [])
   ];
-  return fields.some(f => f && (norm(f).includes(nq) || f.toLowerCase().includes(query.toLowerCase())));
+
+  // Try exact substring first (fast path)
+  const exactMatch = fields.some(f => f && (norm(f).includes(nq) || f.toLowerCase().includes(query.toLowerCase())));
+  if (exactMatch) return true;
+
+  // Fall back to fuzzy search for typo tolerance
+  return fields.some(f => f && fuzzyMatch(nq, norm(f)));
 }
 
 function isExpired(deadline) {
@@ -51,6 +94,13 @@ export default function useScholarships() {
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
   const pageData = filteredData.slice((page - 1) * itemsPerPage, page * itemsPerPage);
 
+  // Autocomplete suggestions based on current query
+  const suggestions = useMemo(() => {
+    if (!query || query.length < 2) return [];
+    const trie = getSearchIndex();
+    return trie.suggest(query, 5);
+  }, [query]);
+
   const setFilters = useCallback(({ query: q, level: l, type: t, coverage: c } = {}) => {
     setLoading(true);
     if (q !== undefined) setQuery(q);
@@ -71,6 +121,7 @@ export default function useScholarships() {
     currentPage: page,
     totalPages,
     filters: { query, level, type, coverage },
+    suggestions,
     setFilters,
     setPage,
     loading,

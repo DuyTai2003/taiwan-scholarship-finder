@@ -20,6 +20,7 @@ function ScholarshipApp() {
     currentPage,
     totalPages,
     filters,
+    suggestions,
     setFilters,
     setPage,
     loading,
@@ -39,7 +40,7 @@ function ScholarshipApp() {
       <MouseSpotlight />
       <Header />
       <Hero totalScholarships={totalScholarships} />
-      <SearchFilters filters={filters} onFilterChange={setFilters} />
+      <SearchFilters filters={filters} suggestions={suggestions} onFilterChange={setFilters} />
       <section id="content-start" style={{ maxWidth: 1100, margin: '26px auto', padding: '0 24px' }}>
         {loading ? (
           <SkeletonGrid count={6} />

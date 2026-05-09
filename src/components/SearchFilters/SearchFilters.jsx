@@ -1,3 +1,4 @@
+import { useState, useRef, useEffect } from 'react';
 import styles from './SearchFilters.module.css';
 import { useLanguage } from '../../context/LanguageContext';
 import i18n from '../../data/i18n.json';
@@ -24,15 +25,33 @@ const TYPES = [
   { value: 'org', i18nKey: 'typeOrg' },
 ];
 
-export default function SearchFilters({ filters, onFilterChange }) {
+export default function SearchFilters({ filters, suggestions = [], onFilterChange }) {
   const { currentLang } = useLanguage();
   const t = i18n[currentLang] || i18n.vi;
+  const [showSuggestions, setShowSuggestions] = useState(false);
+  const wrapperRef = useRef(null);
+
+  // Close suggestions when clicking outside
+  useEffect(() => {
+    const handler = (e) => {
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target)) {
+        setShowSuggestions(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  const handleSuggestionClick = (suggestion) => {
+    onFilterChange({ query: suggestion });
+    setShowSuggestions(false);
+  };
 
   return (
     <div className={styles.searchSection}>
       <div className={styles.searchBox}>
         <div className={styles.searchRow}>
-          <div className={styles.searchInputWrap}>
+          <div className={styles.searchInputWrap} ref={wrapperRef}>
             <span className={styles.searchIcon}>🔍</span>
             <label htmlFor="search-input" className="sr-only">{t.searchPlaceholder}</label>
             <input
@@ -41,9 +60,27 @@ export default function SearchFilters({ filters, onFilterChange }) {
               type="text"
               placeholder={t.searchPlaceholder}
               value={filters.query}
-              onChange={(e) => onFilterChange({ query: e.target.value })}
+              onChange={(e) => { onFilterChange({ query: e.target.value }); setShowSuggestions(true); }}
+              onFocus={() => setShowSuggestions(true)}
               aria-label={t.searchPlaceholder}
+              autoComplete="off"
             />
+            {showSuggestions && suggestions.length > 0 && (
+              <ul className={styles.suggestions} role="listbox">
+                {suggestions.map((s, i) => (
+                  <li
+                    key={i}
+                    className={styles.suggestionItem}
+                    role="option"
+                    onClick={() => handleSuggestionClick(s)}
+                    onKeyDown={(e) => { if (e.key === 'Enter') handleSuggestionClick(s); }}
+                    tabIndex={0}
+                  >
+                    {s}
+                  </li>
+                ))}
+              </ul>
+            )}
           </div>
           <label htmlFor="filter-level" className="sr-only">{t.levelAll || 'Filter by level'}</label>
           <select
