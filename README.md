@@ -20,7 +20,7 @@
 
 | 💻 Screenshot 1 | 💻 Screenshot 2 |
 |:---:|:---:|
-| ![Taiwan Scholarship Finder Screenshot 1](./screenshots/1.png) | ![Taiwan Scholarship Finder Screenshot 2](./screenshots/2.png) |
+| ![Taiwan Scholarship Finder Screenshot 1](./screenshots/screenshot-1.png) | ![Taiwan Scholarship Finder Screenshot 2](./screenshots/screenshot-2.png) |
 
 ---
 
