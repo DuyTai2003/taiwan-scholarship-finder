@@ -16,6 +16,12 @@
 
 </div>
 
+## 📸 Preview / Ảnh xem trước
+
+| 💻 Desktop View | 💻 Desktop View |
+|:---:|:---:|
+| ![Taiwan Scholarship Finder Screenshot 1](./public/1.png) | ![Taiwan Scholarship Finder Screenshot 2](./public/2.png) |
+
 ---
 
 ## 🇬🇧 English
