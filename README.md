@@ -20,7 +20,7 @@
 
 | 💻 Desktop View | 💻 Desktop View |
 |:---:|:---:|
-| ![Taiwan Scholarship Finder Screenshot 1](./public/1.png) | ![Taiwan Scholarship Finder Screenshot 2](./public/2.png) |
+| ![Taiwan Scholarship Finder Screenshot 1](./screenshots/1.png) | ![Taiwan Scholarship Finder Screenshot 2](./screenshots/2.png) |
 
 ---
 
