@@ -1,17 +1,19 @@
 import { createContext, useContext, useState, useEffect } from 'react';
+import { safeJsonParse } from '../utils/safeFetchJSON';
 
 const FavoritesContext = createContext();
 
 const STORAGE_KEY = 'scholarshipFavorites';
 
 function loadFavorites() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw || raw.startsWith('<!DOCTYPE') || raw.startsWith('<html')) return [];
-    return JSON.parse(raw);
-  } catch {
+  const raw = localStorage.getItem(STORAGE_KEY);
+  const parsed = safeJsonParse(raw, []);
+  // Guard: đảm bảo kết quả là mảng
+  if (!Array.isArray(parsed)) {
+    console.warn('[FavoritesContext] Dữ liệu localStorage không phải mảng, reset về [].');
     return [];
   }
+  return parsed;
 }
 
 export function FavoritesProvider({ children }) {

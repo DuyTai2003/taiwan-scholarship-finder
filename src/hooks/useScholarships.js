@@ -1,7 +1,25 @@
-import { useState, useMemo, useCallback } from 'react';
-import scholarships from '../data/scholarships.json';
+import { useState, useMemo, useCallback, useEffect } from 'react';
+import scholarshipsStatic from '../data/scholarships.json';
 import { fuzzyMatch } from '../utils/fuzzySearch';
 import { Trie } from '../utils/trie';
+import { safeFetchJSON } from '../utils/safeFetchJSON';
+
+// ── Guard: validate static import ──────────────────────────────────────────
+function isValidScholarshipData(data) {
+  return data && Array.isArray(data) && data.length > 0;
+}
+
+const STATIC_DATA_VALID = isValidScholarshipData(scholarshipsStatic);
+if (!STATIC_DATA_VALID) {
+  console.error(
+    '[useScholarships] Static import của scholarships.json không hợp lệ: ' +
+    `nhận được ${typeof scholarshipsStatic}${Array.isArray(scholarshipsStatic) ? ` với ${scholarshipsStatic.length} phần tử` : ''}. ` +
+    'Sẽ thử fetch lại từ server...'
+  );
+}
+
+// ── Fallback data (tránh crash hoàn toàn) ──────────────────────────────────
+const FALLBACK_DATA = [];
 
 function norm(str) {
   if (!str) return '';
@@ -14,6 +32,7 @@ function norm(str) {
  */
 function buildSearchIndex(data) {
   const trie = new Trie();
+  if (!data || !Array.isArray(data)) return trie;
   const seen = new Set();
   for (const s of data) {
     const fields = [
@@ -36,9 +55,9 @@ function buildSearchIndex(data) {
 
 // Build index once at module level (lazy)
 let _searchIndex = null;
-function getSearchIndex() {
+function getSearchIndex(data) {
   if (!_searchIndex) {
-    _searchIndex = buildSearchIndex(scholarships);
+    _searchIndex = buildSearchIndex(data);
   }
   return _searchIndex;
 }
@@ -73,6 +92,14 @@ function isExpired(deadline) {
 export { isExpired };
 
 export default function useScholarships() {
+  // ── State: dữ liệu gốc (có thể load từ static import hoặc fetch fallback) ─
+  const [scholarships, setScholarships] = useState(() =>
+    STATIC_DATA_VALID ? scholarshipsStatic : FALLBACK_DATA
+  );
+  const [dataError, setDataError] = useState(
+    STATIC_DATA_VALID ? null : 'Dữ liệu học bổng không khả dụng.'
+  );
+
   const [query, setQuery] = useState('');
   const [level, setLevel] = useState('all');
   const [type, setType] = useState('all');
@@ -81,7 +108,37 @@ export default function useScholarships() {
   const [loading, setLoading] = useState(false);
   const itemsPerPage = 15;
 
+  // ── Fetch fallback nếu static import không hợp lệ ────────────────────────
+  useEffect(() => {
+    if (STATIC_DATA_VALID) return; // Static import OK, không cần fetch
+
+    let cancelled = false;
+    const DATA_URL = import.meta.env.BASE_URL + 'scholarships.json';
+
+    safeFetchJSON(DATA_URL, {}, null)
+      .then((json) => {
+        if (cancelled) return;
+        if (isValidScholarshipData(json)) {
+          setScholarships(json);
+          setDataError(null);
+          // Rebuild search index với dữ liệu mới
+          _searchIndex = null;
+        } else {
+          setDataError('Không thể tải dữ liệu học bổng. Vui lòng thử lại sau.');
+          console.error('[useScholarships] Fetch fallback: dữ liệu không hợp lệ');
+        }
+      })
+      .catch((err) => {
+        if (cancelled) return;
+        setDataError(err.message || 'Lỗi không xác định khi tải dữ liệu.');
+        console.error('[useScholarships] Fetch fallback thất bại:', err);
+      });
+
+    return () => { cancelled = true; };
+  }, []);
+
   const filteredData = useMemo(() => {
+    if (!Array.isArray(scholarships)) return [];
     return scholarships.filter(s => {
       const matchQ = matchSearch(s, query);
       const matchLevel = level === 'all' || (Array.isArray(s.level) && s.level.includes(level));
@@ -89,7 +146,7 @@ export default function useScholarships() {
       const matchCoverage = coverage === 'all' || s.coverage === coverage;
       return matchQ && matchLevel && matchType && matchCoverage;
     });
-  }, [query, level, type, coverage]);
+  }, [scholarships, query, level, type, coverage]);
 
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
   const pageData = filteredData.slice((page - 1) * itemsPerPage, page * itemsPerPage);
@@ -97,9 +154,9 @@ export default function useScholarships() {
   // Autocomplete suggestions based on current query
   const suggestions = useMemo(() => {
     if (!query || query.length < 2) return [];
-    const trie = getSearchIndex();
+    const trie = getSearchIndex(scholarships);
     return trie.suggest(query, 5);
-  }, [query]);
+  }, [query, scholarships]);
 
   const setFilters = useCallback(({ query: q, level: l, type: t, coverage: c } = {}) => {
     setLoading(true);
@@ -126,5 +183,6 @@ export default function useScholarships() {
     setPage,
     loading,
     isExpired,
+    dataError,
   };
 }
